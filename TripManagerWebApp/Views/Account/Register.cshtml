@@ -1,0 +1,72 @@
+﻿@model TripManagerWebApp.Models.ViewModels.UserRegisterVM
+@{
+    ViewData["Title"] = "Register";
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewData["Title"]</title>
+    <link rel="stylesheet" href="~/css/register.css" asp-append-version="true" />
+</head>
+<body>
+    <div class="container">
+        <div class="form-card">
+            <div class="header">
+                <h1>Registration</h1>
+                <p>Create your TripManager account</p>
+            </div>
+
+            <div class="form-container">
+                <form asp-action="Register">
+                    <div asp-validation-summary="ModelOnly" class="alert-danger"></div>
+
+                    <div class="form-group">
+                        <label asp-for="Username" class="form-label"></label>
+                        <input asp-for="Username" class="form-input" placeholder="Enter username" />
+                        <span asp-validation-for="Username" class="validation-error"></span>
+                    </div>
+
+                    <div class="form-group">
+                        <label asp-for="Email" class="form-label"></label>
+                        <input asp-for="Email" class="form-input" placeholder="Enter email address" />
+                        <span asp-validation-for="Email" class="validation-error"></span>
+                    </div>
+
+                    <div class="form-group">
+                        <label asp-for="Password" class="form-label"></label>
+                        <input asp-for="Password" class="form-input" placeholder="Enter password" type="password" />
+                        <span asp-validation-for="Password" class="validation-error"></span>
+                    </div>
+
+                    <div class="form-row">
+                        <div class="form-group">
+                            <label asp-for="FirstName" class="form-label"></label>
+                            <input asp-for="FirstName" class="form-input" placeholder="First name" />
+                            <span asp-validation-for="FirstName" class="validation-error"></span>
+                        </div>
+
+                        <div class="form-group">
+                            <label asp-for="LastName" class="form-label"></label>
+                            <input asp-for="LastName" class="form-input" placeholder="Last name" />
+                            <span asp-validation-for="LastName" class="validation-error"></span>
+                        </div>
+                    </div>
+
+                    <div class="form-actions">
+                        <button type="submit" class="btn-submit">Register</button>
+                        <a asp-action="Index" asp-controller="Home" class="btn-back">Back</a>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/jquery-validation/dist/jquery.validate.min.js"></script>
+    <script src="~/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"></script>
+</body>
+</html>

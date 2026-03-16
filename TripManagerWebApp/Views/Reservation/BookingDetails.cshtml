@@ -1,0 +1,60 @@
+﻿@model TripManagerWebApp.Models.ViewModels.TripBookingVM
+
+@{
+    ViewData["Title"] = "Booking Details";
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html lang="hr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewData["Title"]</title>
+    <link rel="stylesheet" href="~/css/bookingDetails.css" asp-append-version="true" />
+</head>
+<body>
+    <div class="container">
+        <div class="details-card">
+            <div class="header">
+                <h1>Booking Details</h1>
+                <p>Are you sure you want to cancel this booking?</p>
+            </div>
+            <div class="details-grid">
+                <div class="detail-card">
+                    <span class="detail-label">@Html.DisplayNameFor(m => m.TripName)</span>
+                    <span class="detail-value">@Html.DisplayFor(m => m.TripName)</span>
+                </div>
+                <div class="detail-card">
+                    <span class="detail-label">@Html.DisplayNameFor(m => m.NumberOfParticipants)</span>
+                    <span class="detail-value">@Html.DisplayFor(m => m.NumberOfParticipants)</span>
+                </div>
+                <div class="detail-card">
+                    <span class="detail-label">@Html.DisplayNameFor(m => m.BookingDate)</span>
+                    <span class="detail-value">
+                        @Model.BookingDate.ToString("MMM dd, yyyy", System.Globalization.CultureInfo.InvariantCulture)
+                    </span>
+                </div>
+                <div class="detail-card">
+                    <span class="detail-label">@Html.DisplayNameFor(m => m.Status)</span>
+                    <span class="detail-value">@Html.DisplayFor(m => m.Status)</span>
+                </div>
+            </div>
+            <div class="actions">
+                <form asp-action="CancelBooking" method="post">
+                    <input type="hidden" asp-for="TripName" />
+                    <button type="submit" class="btn-cancel">Cancel Booking</button>
+                    @if (User.IsInRole("Admin"))
+                    {
+                        <a asp-action="AllBookings" class="btn-back">Back to List</a>
+                    }
+                    else
+                    {
+                        <a asp-action="MyBookings" class="btn-back">Back to List</a>
+                    }
+                </form>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

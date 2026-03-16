@@ -1,0 +1,28 @@
+﻿@{
+    ViewData["Title"] = "Logout";
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html lang="hr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewData["Title"]</title>
+    <link rel="stylesheet" href="~/css/logout.css" asp-append-version="true" />
+</head>
+<body>
+    <div class="container logout-container">
+        <div class="logout-card">
+            <div class="header">
+                <h1>Logged Out</h1>
+                <p>You have been successfully logged out.</p>
+            </div>
+            <div class="actions">
+                <a href="@Url.Action("Login", "Account")" class="btn-primary">Login Again</a>
+                <a href="@Url.Action("Index", "Home")" class="btn-secondary">Back to Home</a>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

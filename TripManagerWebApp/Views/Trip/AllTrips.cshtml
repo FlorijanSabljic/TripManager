@@ -1,0 +1,71 @@
+﻿@model IEnumerable<TripManagerWebApp.Models.ViewModels.TripVM>
+@{
+    ViewData["Title"] = "AllTrips";
+}
+<!DOCTYPE html>
+<html lang="hr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewData["Title"]</title>
+    <link rel="stylesheet" href="~/css/tripList.css" asp-append-version="true" />
+</head>
+<body>
+    <div class="trips-header-container">
+        <div class="header">
+            <h1>All Trips</h1>
+            @if (User.IsInRole("Admin"))
+            {
+                <a href="@Url.Action("Create")" class="btn-create">
+                    New Trip
+                </a>
+            }
+        </div>
+
+        <div class="table-container">
+            <table>
+                <thead>
+                    <tr>
+                        <th>@Html.DisplayNameFor(model => model.Name)</th>
+                        <th>@Html.DisplayNameFor(model => model.Description)</th>
+                        <th>@Html.DisplayNameFor(model => model.Price)</th>
+                        <th>@Html.DisplayNameFor(model => model.MaxParticipants)</th>
+                        <th>@Html.DisplayNameFor(model => model.DestinationName)</th>
+                        <th>@Html.DisplayNameFor(model => model.DestinationCountry)</th>
+                        <th>Actions</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var item in Model)
+                    {
+                        <tr>
+                            <td><strong>@Html.DisplayFor(modelItem => item.Name)</strong></td>
+                            <td>@Html.DisplayFor(modelItem => item.Description)</td>
+                            <td class="price">@Html.DisplayFor(modelItem => item.Price) €</td>
+                            <td>@Html.DisplayFor(modelItem => item.MaxParticipants)</td>
+                            <td>@Html.DisplayFor(modelItem => item.DestinationName)</td>
+                            <td>@Html.DisplayFor(modelItem => item.DestinationCountry)</td>
+                            <td>
+                                @if (User.IsInRole("Admin"))
+                                {
+                                    <div class="actions">
+                                        @Html.ActionLink("Edit", "Edit", new { id = item.Id }, new { @class = "action-link action-edit" })
+                                        @Html.ActionLink("Details", "Details", new { id = item.Id }, new { @class = "action-link action-details" })
+                                        @Html.ActionLink("Delete", "Delete", new { id = item.Id }, new { @class = "action-link action-delete" })
+                                    </div>
+                                }
+                                else
+                                {
+                                    <div class="actions">
+                                        @Html.ActionLink("Details", "Details", new { id = item.Id }, new { @class = "action-link action-details" })
+                                    </div>
+                                }
+                            </td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+    </div>
+</body>
+</html>

@@ -1,0 +1,104 @@
+﻿@model TripManagerWebApp.Models.ViewModels.TripDetailsVM
+@{
+    ViewData["Title"] = "Details";
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html lang="hr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewData["Title"]</title>
+    <link rel="stylesheet" href="~/css/detailsTrip.css" asp-append-version="true" />
+</head>
+<body>
+    <div class="container">
+        <div class="details-card">
+            <div class="header">
+                <h1>Trip Details</h1>
+                <p>Complete information about the selected trip</p>
+            </div>
+
+            <div class="content">
+                <div class="info-section">
+                    <h2 class="trip-name">@Html.DisplayFor(model => model.Name)</h2>
+                    <p class="trip-description">@Html.DisplayFor(model => model.Description)</p>
+                </div>
+
+                <div class="details-grid">
+                    <div class="detail-card">
+                        <span class="detail-label">@Html.DisplayNameFor(model => model.StartDate)</span>
+                        <span class="detail-value">
+                            @Model.StartDate.ToString("MMM dd, yyyy", System.Globalization.CultureInfo.InvariantCulture)
+                        </span>
+
+                    </div>
+
+                    <div class="detail-card">
+                        <span class="detail-label">@Html.DisplayNameFor(model => model.EndDate)</span>
+                        <span class="detail-value">
+                            @Model.EndDate.ToString("MMM dd, yyyy", System.Globalization.CultureInfo.InvariantCulture)
+                        </span>
+
+                    </div>
+
+                    <div class="detail-card">
+                        <span class="detail-label">@Html.DisplayNameFor(model => model.Price)</span>
+                        <span class="detail-value price">@Html.DisplayFor(model => model.Price) €</span>
+                    </div>
+
+                    <div class="detail-card">
+                        <span class="detail-label">@Html.DisplayNameFor(model => model.MaxParticipants)</span>
+                        <span class="detail-value">@Html.DisplayFor(model => model.MaxParticipants)</span>
+                    </div>
+
+                    <div class="detail-card">
+                        <span class="detail-label">@Html.DisplayNameFor(model => model.DestinationName)</span>
+                        <span class="detail-value">@Html.DisplayFor(model => model.DestinationName)</span>
+                    </div>
+
+                    <div class="detail-card">
+                        <span class="detail-label">@Html.DisplayNameFor(model => model.DestinationCountry)</span>
+                        <span class="detail-value">@Html.DisplayFor(model => model.DestinationCountry)</span>
+                    </div>
+
+                    <div class="detail-card">
+                        <span class="detail-label">Activities</span>
+                        <span class="detail-value">
+                            @if (Model.Activities != null && Model.Activities.Any())
+                            {
+                                <ul>
+                                    @foreach (var activity in Model.Activities)
+                                    {
+                                        <li>
+                                            <strong>@activity.Name</strong>
+                                            @if (!string.IsNullOrEmpty(activity.Description))
+                                            {
+                                                <span> - @activity.Description</span>
+                                            }
+                                            <span> (@activity.Duration days)</span>
+                                        </li>
+                                    }
+                                </ul>
+                            }
+                            else
+                            {
+                                <span>No activities.</span>
+                            }
+                        </span>
+                    </div>
+                </div>
+
+                <div class="actions">
+                    @if (User.IsInRole("Admin"))
+                    {
+                        <a asp-action="Edit" asp-route-id="@Model.Id" class="btn-edit">Edit trip</a>
+                    }
+                    <a href="javascript:history.back()" class="btn-back">Back</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

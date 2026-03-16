@@ -1,0 +1,46 @@
+﻿@{
+    ViewData["Title"] = "Contact";
+}
+@{
+    ViewData["Title"] = "Contact";
+}
+<!DOCTYPE html>
+<html lang="hr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewData["Title"]</title>
+    <link rel="stylesheet" href="~/css/contact.css" asp-append-version="true" />
+</head>
+<body>
+    <div class="container contact-container">
+        <div class="contact-card">
+            <div class="header">
+                <h1>Contact Us</h1>
+                <p>Have a question or need help? Send us a message!</p>
+            </div>
+            <div class="form-container">
+                <form method="post" asp-action="Contact">
+                    <div class="form-group">
+                        <label for="name">Your Name</label>
+                        <input id="name" name="Name" class="form-input" placeholder="Enter your name" required />
+                    </div>
+                    <div class="form-group">
+                        <label for="email">Your Email</label>
+                        <input id="email" name="Email" type="email" class="form-input" placeholder="Enter your email" required />
+                    </div>
+                    <div class="form-group">
+                        <label for="message">Message</label>
+                        <textarea id="message" name="Message" class="form-textarea" rows="5" placeholder="Type your message..." required></textarea>
+                    </div>
+                    <div class="form-actions">
+                        <button type="submit" class="btn-submit">Send Message</button>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
+
+

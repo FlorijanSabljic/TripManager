@@ -1,0 +1,87 @@
+﻿@model TripManagerWebApp.Models.ViewModels.TripVM
+@{
+    ViewData["Title"] = "Create";
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html lang="hr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewData["Title"]</title>
+    <link rel="stylesheet" href="~/css/createTrip.css" asp-append-version="true" />
+</head>
+<body>
+    <div class="container">
+        <div class="form-card">
+            <div class="header">
+                <h1>New Trip</h1>
+                <p>Create a new trip in the system</p>
+            </div>
+
+            <div class="form-container">
+                <form asp-action="Create" method="post">
+                    <div asp-validation-summary="ModelOnly" class="alert-danger"></div>
+
+                    <div class="form-group">
+                        <label asp-for="Name" class="form-label"></label>
+                        <input asp-for="Name" class="form-input" placeholder="Enter trip name" />
+                        <span asp-validation-for="Name" class="validation-error"></span>
+                    </div>
+
+                    <div class="form-group">
+                        <label asp-for="Description" class="form-label"></label>
+                        <textarea asp-for="Description" class="form-textarea" rows="4" placeholder="Describe the trip"></textarea>
+                        <span asp-validation-for="Description" class="validation-error"></span>
+                    </div>
+
+                    <div class="form-row">
+                        <div class="form-group">
+                            <label asp-for="Price" class="form-label"></label>
+                            <input asp-for="Price" class="form-input" placeholder="Price in EUR" />
+                            <span asp-validation-for="Price" class="validation-error"></span>
+                        </div>
+
+                        <div class="form-group">
+                            <label asp-for="MaxParticipants" class="form-label"></label>
+                            <input asp-for="MaxParticipants" class="form-input" placeholder="Number of participants" />
+                            <span asp-validation-for="MaxParticipants" class="validation-error"></span>
+                        </div>
+                    </div>
+
+                    <div class="form-row">
+                        <div class="form-group">
+                            <label asp-for="DestinationName" class="form-label"></label>
+                            <select id="city" name="DestinationName" class="form-input">
+                                <option value="">Select city</option>
+                            </select>
+                            <span asp-validation-for="DestinationName" class="validation-error"></span>
+                        </div>
+
+                        <div class="form-group">
+                            <label asp-for="DestinationCountry" class="form-label"></label>
+                            @Html.DropDownListFor(
+                                     model => model.DestinationCountry,
+                                     new SelectList(ViewBag.Countries),
+                                     "Select country",
+                                     new { @class = "form-input", id = "country", })
+                            <span asp-validation-for="DestinationCountry" class="validation-error"></span>
+                        </div>
+                    </div>
+
+                    <div class="form-actions">
+                        <button type="submit" class="btn-submit">Create trip</button>
+                        <a asp-action="AllTrips" class="btn-back">Cancel</a>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+
+    <script src="~/js/ddmCities.js"></script>
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/jquery-validation/dist/jquery.validate.min.js"></script>
+    <script src="~/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"></script>
+</body>
+</html>

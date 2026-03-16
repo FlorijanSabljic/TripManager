@@ -1,0 +1,164 @@
+﻿.details-card {
+    background: white;
+    border-radius: 20px;
+    box-shadow: 0 20px 60px rgba(0,0,0,0.15);
+    padding: 1.5rem;
+    margin: 3rem auto;
+    max-width: 700px;
+}
+
+.header {
+    text-align: center;
+    margin-bottom: 2rem;
+    border-radius: 20px;
+}
+
+    .header h1 {
+        font-size: 2rem;
+        font-weight: 700;
+        background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+        margin-bottom: 0.5rem;
+        background-clip: text;
+    }
+
+    .header p {
+        color: #4a5568;
+        font-size: 1.1rem;
+    }
+
+.info-section {
+    text-align: center;
+    margin-bottom: 2rem;
+}
+
+.trip-name {
+    font-size: 1.5rem;
+    font-weight: 600;
+    margin-bottom: 0.5rem;
+}
+
+.trip-description {
+    color: #4a5568;
+    font-size: 1.05rem;
+}
+
+.details-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 1.2rem;
+    margin-bottom: 2rem;
+}
+
+.detail-card {
+    background: #f7fafc;
+    border-radius: 10px;
+    padding: 1rem;
+    display: flex;
+    flex-direction: column;
+    gap: 0.3rem;
+}
+
+.detail-label {
+    font-weight: 600;
+    color: #667eea;
+    font-size: 0.95rem;
+}
+
+.detail-value {
+    color: #2d3748;
+    font-size: 1.05rem;
+}
+
+.price {
+    color: #38a169;
+    font-weight: 700;
+}
+
+.actions {
+    display: flex;
+    gap: 1rem;
+    justify-content: center;
+    margin-top: 1.5rem;
+}
+
+.btn-book {
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    color: white;
+    padding: 0.75rem 2.5rem;
+    border: none;
+    border-radius: 8px;
+    font-size: 1rem;
+    font-weight: 600;
+    cursor: pointer;
+    transition: all 0.3s;
+}
+
+    .btn-book:hover {
+        transform: translateY(-2px);
+        box-shadow: 0 5px 15px rgba(102, 126, 234, 0.2);
+    }
+
+.btn-back {
+    background: #e2e8f0;
+    color: #4a5568;
+    padding: 0.75rem 2.5rem;
+    border: none;
+    border-radius: 8px;
+    font-size: 1rem;
+    font-weight: 600;
+    text-decoration: none;
+    display: inline-block;
+    transition: all 0.3s;
+}
+
+    .btn-back:hover {
+        background: #cbd5e0;
+        color: #2d3748;
+        transform: translateY(-2px);
+    }
+
+.popup-alert {
+    position: fixed;
+    top: 40px;
+    left: 0;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    z-index: 9999;
+    pointer-events: none;
+}
+
+.popup-content {
+    background: #f44336;
+    color: #fff;
+    padding: 18px 32px;
+    border-radius: 8px;
+    box-shadow: 0 4px 16px rgba(0,0,0,0.15);
+    font-size: 1.1rem;
+    min-width: 300px;
+    text-align: center;
+    pointer-events: auto;
+    animation: fadeInDown 0.5s;
+}
+
+@keyframes fadeInDown {
+    from {
+        opacity: 0;
+        transform: translateY(-30px);
+    }
+
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+@media (max-width: 700px) {
+    .details-card {
+        padding: 1.5rem 0.5rem;
+    }
+
+    .details-grid {
+        grid-template-columns: 1fr;
+    }
+}

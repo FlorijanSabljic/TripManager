@@ -1,0 +1,55 @@
+﻿@model IEnumerable<TripManagerWebApp.Models.ViewModels.TripBookingAdminVM>
+
+@{
+    ViewData["Title"] = "All Bookings";
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewData["Title"]</title>
+    <link rel="stylesheet" href="~/css/tripList.css" asp-append-version="true" />
+</head>
+<body>
+    <div class="container">
+        <div class="header" style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 2rem;">
+            <h1 style="margin: 0;">All Bookings</h1>
+            <a asp-action="Create" class="btn-create">New Booking</a>
+        </div>
+
+        <div class="table-container">
+            <table>
+                <thead>
+                    <tr>
+                        <th>@Html.DisplayNameFor(model => model.TripName)</th>
+                        <th>@Html.DisplayNameFor(model => model.NumberOfParticipants)</th>
+                        <th>@Html.DisplayNameFor(model => model.BookingDate)</th>
+                        <th>@Html.DisplayNameFor(model => model.Status)</th>
+                        <th>@Html.DisplayNameFor(model => model.Username)</th>
+                        <th>Actions</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var item in Model)
+                    {
+                        <tr class="my-booking-row">
+                            <td><strong>@Html.DisplayFor(modelItem => item.TripName)</strong></td>
+                            <td>@Html.DisplayFor(modelItem => item.NumberOfParticipants)</td>
+                            <td>@item.BookingDate.ToString("dd. MM. yyyy.", System.Globalization.CultureInfo.InvariantCulture)</td>
+                            <td>@Html.DisplayFor(modelItem => item.Status)</td>
+                            <td>@Html.DisplayFor(modelItem => item.Username)</td>
+                            <td>
+                                <div class="actions">
+                                    @Html.ActionLink("Details", "BookingDetails", new { name = item.TripName }, new { @class = "action-link action-details" })
+                                </div>
+                            </td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+    </div>
+</body>
+</html>

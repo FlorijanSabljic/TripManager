@@ -1,0 +1,82 @@
+﻿@model TripManagerWebApp.Models.ViewModels.TripDetailsVM
+
+@{
+    ViewData["Title"] = "Book Trip";
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html lang="hr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewData["Title"]</title>
+    <link rel="stylesheet" href="~/css/detailsTrip.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/css/bookTrip.css" asp-append-version="true" />
+</head>
+<body>
+    @if (!ViewData.ModelState.IsValid)
+    {
+        <div class="popup-alert">
+            <div class="popup-content">
+                <div>This trip is already booked!</div>
+            </div>
+        </div>
+    }
+
+    <div class="container">
+        <div class="details-card">
+            <div class="header">
+                <h1>Book Trip</h1>
+                <p>Review trip details and book your spot</p>
+            </div>
+
+            <div class="content">
+                <div class="info-section">
+                    <h2 class="trip-name">@Html.DisplayFor(model => model.Name)</h2>
+                    <p class="trip-description">@Html.DisplayFor(model => model.Description)</p>
+                </div>
+
+                <div class="details-grid">
+                    <div class="detail-card">
+                        <span class="detail-label">@Html.DisplayNameFor(model => model.StartDate)</span>
+                        <span class="detail-value">
+                            @Model.StartDate.ToString("MMM dd, yyyy", System.Globalization.CultureInfo.InvariantCulture)
+                        </span>
+                    </div>
+                    <div class="detail-card">
+                        <span class="detail-label">@Html.DisplayNameFor(model => model.EndDate)</span>
+                        <span class="detail-value">
+                            @Model.EndDate.ToString("MMM dd, yyyy", System.Globalization.CultureInfo.InvariantCulture)
+                        </span>
+                    </div>
+                    <div class="detail-card">
+                        <span class="detail-label">@Html.DisplayNameFor(model => model.Price)</span>
+                        <span class="detail-value price">@Html.DisplayFor(model => model.Price) €</span>
+                    </div>
+                    <div class="detail-card">
+                        <span class="detail-label">@Html.DisplayNameFor(model => model.MaxParticipants)</span>
+                        <span class="detail-value">@Html.DisplayFor(model => model.MaxParticipants)</span>
+                    </div>
+                    <div class="detail-card">
+                        <span class="detail-label">@Html.DisplayNameFor(model => model.DestinationName)</span>
+                        <span class="detail-value">@Html.DisplayFor(model => model.DestinationName)</span>
+                    </div>
+                    <div class="detail-card">
+                        <span class="detail-label">@Html.DisplayNameFor(model => model.DestinationCountry)</span>
+                        <span class="detail-value">@Html.DisplayFor(model => model.DestinationCountry)</span>
+                    </div>
+                </div>
+
+                <div class="actions">
+                    <form asp-action="BookTrip" method="post">
+                        <input type="hidden" asp-for="Id" />
+                        <button type="submit" class="btn-book">Book Trip</button>
+                        <a asp-action="TripsForReservation" class="btn-back">Back to list</a>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

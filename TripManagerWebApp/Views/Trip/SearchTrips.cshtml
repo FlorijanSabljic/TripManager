@@ -1,0 +1,153 @@
+﻿@model TripManagerWebApp.Models.ViewModels.SearchVM
+@{
+    ViewData["Title"] = "Trip Search";
+}
+<!DOCTYPE html>
+<html lang="hr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewData["Title"]</title>
+    <link rel="stylesheet" href="~/css/tripList.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/css/search.css" asp-append-version="true" />
+</head>
+<body>
+    <div class="trips-header-container">
+        <div class="header">
+            <h1>Search Trips</h1>
+        </div>
+
+        <!-- Search Section -->
+        <div class="search-section">
+            <form asp-action="SearchTrips" method="get" class="search-form">
+                <div class="search-row">
+                    <div class="search-field">
+                        <label for="searchWord">Search trips</label>
+                        <input type="text" id="searchWord" name="Query" class="search-input"
+                               placeholder="Enter name or destination..." value="@ViewData["CurrentCookieQuery"]" />
+                    </div>
+
+                    <div class="search-field-small">
+                        <label for="sortOrder">Sort by</label>
+                        <select id="sortOrder" name="OrderBy" class="search-select">
+                            <option value="name_asc">Name (A-Z)</option>
+                            <option value="name_desc">Name (Z-A)</option>
+                            <option value="price_asc">Price (lowest first)</option>
+                            <option value="price_desc">Price (highest first)</option>
+                            <option value="destination_asc">Destination (A-Z)</option>
+                            <option value="destination_desc">Destination (Z-A)</option>
+                            <option value="participants_asc">Participants (fewest first)</option>
+                            <option value="participants_desc">Participants (most first)</option>
+                        </select>
+                    </div>
+                </div>
+
+                <div class="search-row">
+                    <div class="search-field-small">
+                        <label for="pageNumber">Page</label>
+                        <input type="number" id="pageNumber" name="Page" class="search-input"
+                               value="@ViewData["PageNumber"]" min="1" />
+                    </div>
+
+                    <div class="search-field-small">
+                        <label for="pageSize">Results per page</label>
+                        <select id="pageSize" name="PageSize" class="search-select">
+                            <option value="0" selected>0</option>
+                            <option value="5">5</option>
+                            <option value="10">10</option>
+                            <option value="20">20</option>
+                            <option value="50">50</option>
+                        </select>
+                    </div>
+
+                    <div class="search-actions">
+                        <button type="submit" name="Submit" value="1" class="search-btn">Search</button>
+                        <a href="@Url.Action("AllTrips")" class="reset-btn">Reset</a>
+                    </div>
+                </div>
+            </form>
+        </div>
+
+        <div class="table-container">
+            <table>
+                <thead>
+                    <tr>
+                        <th>@Html.DisplayNameFor(model => model.Trips[0].Name)</th>
+                        <th>@Html.DisplayNameFor(model => model.Trips[0].Description)</th>
+                        <th>@Html.DisplayNameFor(model => model.Trips[0].Price)</th>
+                        <th>@Html.DisplayNameFor(model => model.Trips[0].MaxParticipants)</th>
+                        <th>@Html.DisplayNameFor(model => model.Trips[0].DestinationName)</th>
+                        <th>@Html.DisplayNameFor(model => model.Trips[0].DestinationCountry)</th>
+                        <th>Actions</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var item in Model.Trips)
+                    {
+                        <tr>
+                            <td><strong>@Html.DisplayFor(modelItem => item.Name)</strong></td>
+                            <td>@Html.DisplayFor(modelItem => item.Description)</td>
+                            <td class="price">@Html.DisplayFor(modelItem => item.Price) €</td>
+                            <td>@Html.DisplayFor(modelItem => item.MaxParticipants)</td>
+                            <td>@Html.DisplayFor(modelItem => item.DestinationName)</td>
+                            <td>@Html.DisplayFor(modelItem => item.DestinationCountry)</td>
+                            <td>
+                                @if (User.IsInRole("Admin"))
+                                {
+                                    <div class="actions">
+                                        @Html.ActionLink("Edit", "Edit", new { id = item.Id }, new { @class = "action-link action-edit" })
+                                        @Html.ActionLink("Details", "Details", new { id = item.Id }, new { @class = "action-link action-details" })
+                                        @Html.ActionLink("Delete", "Delete", new { id = item.Id }, new { @class = "action-link action-delete" })
+                                    </div>
+                                }
+                                else
+                                {
+                                    <div class="actions">
+                                        @Html.ActionLink("Details", "Details", new { id = item.Id }, new { @class = "action-link action-details" })
+                                        @Html.ActionLink("Book Trip", "BookTrip", "Reservation", new { id = item.Id }, new { @class = "action-link action-edit" })
+                                    </div>
+                                }
+                            </td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+            <nav>
+                <ul class="pagination">
+                    @for (int i = Model.FromPager; i <= Model.ToPager; i++)
+                    {
+                        var linkText = @i.ToString();
+                        if (i != 1 && i == Model.FromPager)
+                        {
+                            linkText = "«";
+                        }
+                        else if (i != Model.LastPage && i == Model.ToPager)
+                        {
+                            linkText = "»";
+                        }
+
+                        var linkClass = "page-item";
+                        if (i == Model.Page)
+                        {
+                            linkClass = "page-item active";
+                        }
+                        <li class="@linkClass">
+                            @Html.ActionLink(
+                                     @linkText,
+                                     "SearchTrips",
+                                     new
+                                     {
+                                         Query = Model.Query,
+                                         OrderBy = Model.OrderBy,
+                                         Page = i,
+                                         PageSize = Model.PageSize
+                                     },
+                                     new { @class = "page-link" })
+                        </li>
+                    }
+                </ul>
+            </nav>
+        </div>
+    </div>
+</body>
+</html>
