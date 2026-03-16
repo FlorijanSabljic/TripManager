@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35514.174
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TripManagerWebApi", "TripManagerWebApi\TripManagerWebApi.csproj", "{C185B5F9-3109-4BE9-BE04-3557BEA07676}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TripManagerData", "TripManagerData\TripManagerData.csproj", "{03C872C1-B47E-42EE-9B32-A03E43A3FB6C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TripManagerWebApp", "TripManagerWebApp\TripManagerWebApp.csproj", "{42A93AF9-5207-48A2-81B7-A04E7AF19A99}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C185B5F9-3109-4BE9-BE04-3557BEA07676}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C185B5F9-3109-4BE9-BE04-3557BEA07676}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C185B5F9-3109-4BE9-BE04-3557BEA07676}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C185B5F9-3109-4BE9-BE04-3557BEA07676}.Release|Any CPU.Build.0 = Release|Any CPU
+		{03C872C1-B47E-42EE-9B32-A03E43A3FB6C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03C872C1-B47E-42EE-9B32-A03E43A3FB6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03C872C1-B47E-42EE-9B32-A03E43A3FB6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03C872C1-B47E-42EE-9B32-A03E43A3FB6C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{42A93AF9-5207-48A2-81B7-A04E7AF19A99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42A93AF9-5207-48A2-81B7-A04E7AF19A99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42A93AF9-5207-48A2-81B7-A04E7AF19A99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42A93AF9-5207-48A2-81B7-A04E7AF19A99}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

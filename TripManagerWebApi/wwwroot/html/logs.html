@@ -1,0 +1,36 @@
+﻿<!DOCTYPE html>
+<html lang="hr">
+<head>
+    <meta charset="UTF-8">
+    <title>Popis zapisnika</title>
+    <link rel="stylesheet" href="logsStyle.css">
+</head>
+<body>
+    <div class="container">
+        <h2>Popis zapisnika</h2>
+        <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 16px;">
+            <label>
+                Broj zapisa:
+                <select id="count">
+                    <option value="5">5</option>
+                    <option value="10">10</option>
+                    <option value="15">15</option>
+                </select>
+            </label>
+            <button id="logout" style="background: #dc3545;">Odjava</button>
+        </div>
+        <table id="logsTable">
+            <thead>
+                <tr>
+                    <th>ID</th>
+                    <th>Poruka</th>
+                    <th>Vrijeme</th>
+                </tr>
+            </thead>
+            <tbody></tbody>
+        </table>
+        <div id="error" style="color: #d8000c; margin-top: 12px; text-align: center;"></div>
+    </div>
+    <script src="logs.js"></script>
+</body>
+</html>
