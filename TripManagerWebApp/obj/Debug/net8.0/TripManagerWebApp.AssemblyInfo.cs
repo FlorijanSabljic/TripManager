@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TripManagerWebApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d650269b20762a55b22652f1629afdfde46dffa9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c5cbc6ac9d3e722137052208543bc02340614b91")]
 [assembly: System.Reflection.AssemblyProductAttribute("TripManagerWebApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TripManagerWebApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

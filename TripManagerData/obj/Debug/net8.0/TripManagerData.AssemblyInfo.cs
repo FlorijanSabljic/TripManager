@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TripManagerData")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+39a07a6ad293deef07e130c5f97919b74ea9da84")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c5cbc6ac9d3e722137052208543bc02340614b91")]
 [assembly: System.Reflection.AssemblyProductAttribute("TripManagerData")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TripManagerData")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

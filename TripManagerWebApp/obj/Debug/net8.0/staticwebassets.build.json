@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "1yYfAnJJLuepkSYmUOyLJSO4m5bkJRRx5YxW/9AkntE=",
+  "Hash": "XbSi44t2khdk1AnJYCfiJNeYBbJyPN5LCD70nIr7mgU=",
   "Source": "TripManagerWebApp",
   "BasePath": "_content/TripManagerWebApp",
   "Mode": "Default",
@@ -73,8 +73,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "oe5s8ty28q",
-      "Integrity": "YEYyPyNbnpUXkIjjTwe7klJfld+HREp1oj+MFAlddno=",
+      "Fingerprint": "epztolbdru",
+      "Integrity": "/imCTF7+8lThH5repmmXRrKETnnI1kK6+7oUA6KYsh8=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\bookingDetails.css"
@@ -94,8 +94,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "3na00fyv34",
-      "Integrity": "37GccdqYvf9KIndx+WYTBbf1IFviyshVix7kySmzvAY=",
+      "Fingerprint": "9mwh6vqndr",
+      "Integrity": "YcEo1s9ueGhhK1KaPPC7xhttVTNFkAT5QbUgQNreIoo=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\bookTrip.css"
@@ -136,8 +136,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "0va05lbs0g",
-      "Integrity": "BICL7PFRO160M56lywMmN9swQHScRfi1HCmpusCbMes=",
+      "Fingerprint": "15x4exgder",
+      "Integrity": "O03ChqvEdTXEN8dnXyL7xpNEGam5Po4HLyrMHY3l03w=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\createTrip.css"
@@ -157,8 +157,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "ijxxh1vg2n",
-      "Integrity": "8pLEkyV+DoyuEwPUtfup89zkHqE15755RdujMO+c8JA=",
+      "Fingerprint": "chgghk1wwi",
+      "Integrity": "cEiTvy/DVFsbQsugWAq+UhHslAHSZ4giJfHIV5XwJqE=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\deleteTrip.css"
@@ -178,8 +178,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "u04tvrcxik",
-      "Integrity": "YnsEDZhsGgevaAMtNpTA4WqR6JSL0tP5lBqyb60qjEs=",
+      "Fingerprint": "ie22vde89c",
+      "Integrity": "VtQL+BiHsx7bQEYrztSj5TiU7FQAG5UuD0XCpnjm/1k=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\detailsTrip.css"
@@ -199,8 +199,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "57wuh7g1xa",
-      "Integrity": "gWs8Y151kGsqbR433wl0Z7NpMnBgbOOBll6yhswosH8=",
+      "Fingerprint": "mbqbde9212",
+      "Integrity": "Ao/ng+OWNAYrnJnFyv3cr2sFcZLKq6CoepKuz5mUfJM=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\editTrip.css"
@@ -220,8 +220,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "sxniwb5o2a",
-      "Integrity": "UDpuYbSdZIXMF9eyE07SCuT/jXv29v3Jh++SBYIv4bI=",
+      "Fingerprint": "wsm5aty2rc",
+      "Integrity": "UH/fGjFbyHuFOyS/K9poMijB2UqQXPH6hxys94dYsKY=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\home.css"
@@ -241,8 +241,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "7dgr2c5z1d",
-      "Integrity": "ZXLmm46S9LD2An/PTZ8aFfRsRAmr5WK7wTVuCOoYEOA=",
+      "Fingerprint": "b77ysb2u6g",
+      "Integrity": "96D6u86eK+R6if3sd+Vd5qCHqAnzf3q9QyJOdjuqbpY=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\login.css"
@@ -262,8 +262,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "phtrtwagcg",
-      "Integrity": "DSumhFi7w4AehnWgOM74Y5Ev7XRAs26SpHAa2795NmM=",
+      "Fingerprint": "oezme20z2q",
+      "Integrity": "QM2216rHjh+nfg0pFeQs39utYvcCAs6vwMR8MTzL/vM=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\logout.css"
@@ -283,8 +283,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "41qpt2vb5l",
-      "Integrity": "CIWH4FX6JGsudF8iO5YPrqopW3hIJwqhsu3QqRPk+uE=",
+      "Fingerprint": "f71nqj4ybl",
+      "Integrity": "26u02fGzbzoKVpO6TTmHbblytoS0KbQ3sEZQWQxiV9c=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\profile.css"
@@ -304,8 +304,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "n0lvbuev4c",
-      "Integrity": "2cAPibDV1Sr8LTRW0Sr377hndKXQuY9iHQ1Fxp4paBk=",
+      "Fingerprint": "jumamb5kkd",
+      "Integrity": "K8QQZdvWENpMxzdQ1o2RMhOA8I5SvDQy/EWTInUBj0s=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\register.css"
@@ -325,8 +325,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "zj6gmwft3h",
-      "Integrity": "0fTlgtVywq6s/ZLzMRWmasfYfHyVY5wrsf54jrPtdg0=",
+      "Fingerprint": "1ekg44vn39",
+      "Integrity": "OY+OsCOOuh8umZTRKU13AZHCkGUySL0IcgetWj5EKmI=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\search.css"
@@ -346,8 +346,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "s1pwvofx2z",
-      "Integrity": "MKrIbx7oUdOxM2giPyKP2ctL6nzbzWXY41tfMDEnfN8=",
+      "Fingerprint": "10arxxlewz",
+      "Integrity": "YSBQpqbpOd0FfmFB22JMVdMmqj5MSlK3zs9GNsMXRdw=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\tripList.css"
@@ -1646,7 +1646,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "8663"
+          "Value": "6312"
         },
         {
           "Name": "Content-Type",
@@ -1654,11 +1654,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"YEYyPyNbnpUXkIjjTwe7klJfld+HREp1oj+MFAlddno=\""
+          "Value": "\"/imCTF7+8lThH5repmmXRrKETnnI1kK6+7oUA6KYsh8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 19 Mar 2026 17:04:22 GMT"
+          "Value": "Thu, 19 Mar 2026 17:06:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1668,12 +1668,12 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-YEYyPyNbnpUXkIjjTwe7klJfld+HREp1oj+MFAlddno="
+          "Value": "sha256-/imCTF7+8lThH5repmmXRrKETnnI1kK6+7oUA6KYsh8="
         }
       ]
     },
     {
-      "Route": "css/bookingDetails.oe5s8ty28q.css",
+      "Route": "css/bookingDetails.epztolbdru.css",
       "AssetFile": "C:\\Users\\Florijan\\Documents\\AlgebraProjects\\ProjectTask_RWA\\TripManager\\TripManagerWebApp\\wwwroot\\css\\bookingDetails.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -1683,7 +1683,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "8663"
+          "Value": "6312"
         },
         {
           "Name": "Content-Type",
@@ -1691,11 +1691,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"YEYyPyNbnpUXkIjjTwe7klJfld+HREp1oj+MFAlddno=\""
+          "Value": "\"/imCTF7+8lThH5repmmXRrKETnnI1kK6+7oUA6KYsh8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 19 Mar 2026 17:04:22 GMT"
+          "Value": "Thu, 19 Mar 2026 17:06:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1705,7 +1705,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "oe5s8ty28q"
+          "Value": "epztolbdru"
         },
         {
           "Name": "label",
@@ -1713,12 +1713,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-YEYyPyNbnpUXkIjjTwe7klJfld+HREp1oj+MFAlddno="
+          "Value": "sha256-/imCTF7+8lThH5repmmXRrKETnnI1kK6+7oUA6KYsh8="
         }
       ]
     },
     {
-      "Route": "css/bookTrip.3na00fyv34.css",
+      "Route": "css/bookTrip.9mwh6vqndr.css",
       "AssetFile": "C:\\Users\\Florijan\\Documents\\AlgebraProjects\\ProjectTask_RWA\\TripManager\\TripManagerWebApp\\wwwroot\\css\\bookTrip.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -1728,7 +1728,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "11413"
+          "Value": "8360"
         },
         {
           "Name": "Content-Type",
@@ -1736,11 +1736,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"37GccdqYvf9KIndx+WYTBbf1IFviyshVix7kySmzvAY=\""
+          "Value": "\"YcEo1s9ueGhhK1KaPPC7xhttVTNFkAT5QbUgQNreIoo=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 19 Mar 2026 16:51:35 GMT"
+          "Value": "Thu, 19 Mar 2026 17:07:21 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1750,7 +1750,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "3na00fyv34"
+          "Value": "9mwh6vqndr"
         },
         {
           "Name": "label",
@@ -1758,7 +1758,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-37GccdqYvf9KIndx+WYTBbf1IFviyshVix7kySmzvAY="
+          "Value": "sha256-YcEo1s9ueGhhK1KaPPC7xhttVTNFkAT5QbUgQNreIoo="
         }
       ]
     },
@@ -1773,7 +1773,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "11413"
+          "Value": "8360"
         },
         {
           "Name": "Content-Type",
@@ -1781,11 +1781,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"37GccdqYvf9KIndx+WYTBbf1IFviyshVix7kySmzvAY=\""
+          "Value": "\"YcEo1s9ueGhhK1KaPPC7xhttVTNFkAT5QbUgQNreIoo=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 19 Mar 2026 16:51:35 GMT"
+          "Value": "Thu, 19 Mar 2026 17:07:21 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1795,7 +1795,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-37GccdqYvf9KIndx+WYTBbf1IFviyshVix7kySmzvAY="
+          "Value": "sha256-YcEo1s9ueGhhK1KaPPC7xhttVTNFkAT5QbUgQNreIoo="
         }
       ]
     },
@@ -1882,7 +1882,7 @@
       ]
     },
     {
-      "Route": "css/createTrip.0va05lbs0g.css",
+      "Route": "css/createTrip.15x4exgder.css",
       "AssetFile": "C:\\Users\\Florijan\\Documents\\AlgebraProjects\\ProjectTask_RWA\\TripManager\\TripManagerWebApp\\wwwroot\\css\\createTrip.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -1892,7 +1892,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "10831"
+          "Value": "7649"
         },
         {
           "Name": "Content-Type",
@@ -1900,11 +1900,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"BICL7PFRO160M56lywMmN9swQHScRfi1HCmpusCbMes=\""
+          "Value": "\"O03ChqvEdTXEN8dnXyL7xpNEGam5Po4HLyrMHY3l03w=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 19 Mar 2026 16:37:47 GMT"
+          "Value": "Thu, 19 Mar 2026 17:07:44 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1914,7 +1914,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "0va05lbs0g"
+          "Value": "15x4exgder"
         },
         {
           "Name": "label",
@@ -1922,7 +1922,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-BICL7PFRO160M56lywMmN9swQHScRfi1HCmpusCbMes="
+          "Value": "sha256-O03ChqvEdTXEN8dnXyL7xpNEGam5Po4HLyrMHY3l03w="
         }
       ]
     },
@@ -1937,7 +1937,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "10831"
+          "Value": "7649"
         },
         {
           "Name": "Content-Type",
@@ -1945,11 +1945,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"BICL7PFRO160M56lywMmN9swQHScRfi1HCmpusCbMes=\""
+          "Value": "\"O03ChqvEdTXEN8dnXyL7xpNEGam5Po4HLyrMHY3l03w=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 19 Mar 2026 16:37:47 GMT"
+          "Value": "Thu, 19 Mar 2026 17:07:44 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1959,7 +1959,52 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-BICL7PFRO160M56lywMmN9swQHScRfi1HCmpusCbMes="
+          "Value": "sha256-O03ChqvEdTXEN8dnXyL7xpNEGam5Po4HLyrMHY3l03w="
+        }
+      ]
+    },
+    {
+      "Route": "css/deleteTrip.chgghk1wwi.css",
+      "AssetFile": "C:\\Users\\Florijan\\Documents\\AlgebraProjects\\ProjectTask_RWA\\TripManager\\TripManagerWebApp\\wwwroot\\css\\deleteTrip.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7034"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"cEiTvy/DVFsbQsugWAq+UhHslAHSZ4giJfHIV5XwJqE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 19 Mar 2026 17:08:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "chgghk1wwi"
+        },
+        {
+          "Name": "label",
+          "Value": "css/deleteTrip.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-cEiTvy/DVFsbQsugWAq+UhHslAHSZ4giJfHIV5XwJqE="
         }
       ]
     },
@@ -1974,7 +2019,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "10269"
+          "Value": "7034"
         },
         {
           "Name": "Content-Type",
@@ -1982,11 +2027,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"8pLEkyV+DoyuEwPUtfup89zkHqE15755RdujMO+c8JA=\""
+          "Value": "\"cEiTvy/DVFsbQsugWAq+UhHslAHSZ4giJfHIV5XwJqE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 19 Mar 2026 16:38:10 GMT"
+          "Value": "Thu, 19 Mar 2026 17:08:06 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1996,52 +2041,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-8pLEkyV+DoyuEwPUtfup89zkHqE15755RdujMO+c8JA="
-        }
-      ]
-    },
-    {
-      "Route": "css/deleteTrip.ijxxh1vg2n.css",
-      "AssetFile": "C:\\Users\\Florijan\\Documents\\AlgebraProjects\\ProjectTask_RWA\\TripManager\\TripManagerWebApp\\wwwroot\\css\\deleteTrip.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "10269"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"8pLEkyV+DoyuEwPUtfup89zkHqE15755RdujMO+c8JA=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 19 Mar 2026 16:38:10 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "ijxxh1vg2n"
-        },
-        {
-          "Name": "label",
-          "Value": "css/deleteTrip.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-8pLEkyV+DoyuEwPUtfup89zkHqE15755RdujMO+c8JA="
+          "Value": "sha256-cEiTvy/DVFsbQsugWAq+UhHslAHSZ4giJfHIV5XwJqE="
         }
       ]
     },
@@ -2056,7 +2056,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "11213"
+          "Value": "7906"
         },
         {
           "Name": "Content-Type",
@@ -2064,11 +2064,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"YnsEDZhsGgevaAMtNpTA4WqR6JSL0tP5lBqyb60qjEs=\""
+          "Value": "\"VtQL+BiHsx7bQEYrztSj5TiU7FQAG5UuD0XCpnjm/1k=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 19 Mar 2026 16:38:19 GMT"
+          "Value": "Thu, 19 Mar 2026 17:08:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2078,12 +2078,12 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-YnsEDZhsGgevaAMtNpTA4WqR6JSL0tP5lBqyb60qjEs="
+          "Value": "sha256-VtQL+BiHsx7bQEYrztSj5TiU7FQAG5UuD0XCpnjm/1k="
         }
       ]
     },
     {
-      "Route": "css/detailsTrip.u04tvrcxik.css",
+      "Route": "css/detailsTrip.ie22vde89c.css",
       "AssetFile": "C:\\Users\\Florijan\\Documents\\AlgebraProjects\\ProjectTask_RWA\\TripManager\\TripManagerWebApp\\wwwroot\\css\\detailsTrip.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -2093,7 +2093,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "11213"
+          "Value": "7906"
         },
         {
           "Name": "Content-Type",
@@ -2101,11 +2101,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"YnsEDZhsGgevaAMtNpTA4WqR6JSL0tP5lBqyb60qjEs=\""
+          "Value": "\"VtQL+BiHsx7bQEYrztSj5TiU7FQAG5UuD0XCpnjm/1k=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 19 Mar 2026 16:38:19 GMT"
+          "Value": "Thu, 19 Mar 2026 17:08:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2115,7 +2115,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "u04tvrcxik"
+          "Value": "ie22vde89c"
         },
         {
           "Name": "label",
@@ -2123,52 +2123,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-YnsEDZhsGgevaAMtNpTA4WqR6JSL0tP5lBqyb60qjEs="
-        }
-      ]
-    },
-    {
-      "Route": "css/editTrip.57wuh7g1xa.css",
-      "AssetFile": "C:\\Users\\Florijan\\Documents\\AlgebraProjects\\ProjectTask_RWA\\TripManager\\TripManagerWebApp\\wwwroot\\css\\editTrip.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "10605"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"gWs8Y151kGsqbR433wl0Z7NpMnBgbOOBll6yhswosH8=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 19 Mar 2026 16:37:59 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "57wuh7g1xa"
-        },
-        {
-          "Name": "label",
-          "Value": "css/editTrip.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-gWs8Y151kGsqbR433wl0Z7NpMnBgbOOBll6yhswosH8="
+          "Value": "sha256-VtQL+BiHsx7bQEYrztSj5TiU7FQAG5UuD0XCpnjm/1k="
         }
       ]
     },
@@ -2183,7 +2138,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "10605"
+          "Value": "7423"
         },
         {
           "Name": "Content-Type",
@@ -2191,11 +2146,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"gWs8Y151kGsqbR433wl0Z7NpMnBgbOOBll6yhswosH8=\""
+          "Value": "\"Ao/ng+OWNAYrnJnFyv3cr2sFcZLKq6CoepKuz5mUfJM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 19 Mar 2026 16:37:59 GMT"
+          "Value": "Thu, 19 Mar 2026 17:08:55 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2205,7 +2160,52 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-gWs8Y151kGsqbR433wl0Z7NpMnBgbOOBll6yhswosH8="
+          "Value": "sha256-Ao/ng+OWNAYrnJnFyv3cr2sFcZLKq6CoepKuz5mUfJM="
+        }
+      ]
+    },
+    {
+      "Route": "css/editTrip.mbqbde9212.css",
+      "AssetFile": "C:\\Users\\Florijan\\Documents\\AlgebraProjects\\ProjectTask_RWA\\TripManager\\TripManagerWebApp\\wwwroot\\css\\editTrip.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7423"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Ao/ng+OWNAYrnJnFyv3cr2sFcZLKq6CoepKuz5mUfJM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 19 Mar 2026 17:08:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "mbqbde9212"
+        },
+        {
+          "Name": "label",
+          "Value": "css/editTrip.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Ao/ng+OWNAYrnJnFyv3cr2sFcZLKq6CoepKuz5mUfJM="
         }
       ]
     },
@@ -2220,7 +2220,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "16764"
+          "Value": "12719"
         },
         {
           "Name": "Content-Type",
@@ -2228,11 +2228,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"UDpuYbSdZIXMF9eyE07SCuT/jXv29v3Jh++SBYIv4bI=\""
+          "Value": "\"UH/fGjFbyHuFOyS/K9poMijB2UqQXPH6hxys94dYsKY=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 19 Mar 2026 16:41:39 GMT"
+          "Value": "Thu, 19 Mar 2026 17:09:17 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2242,12 +2242,12 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-UDpuYbSdZIXMF9eyE07SCuT/jXv29v3Jh++SBYIv4bI="
+          "Value": "sha256-UH/fGjFbyHuFOyS/K9poMijB2UqQXPH6hxys94dYsKY="
         }
       ]
     },
     {
-      "Route": "css/home.sxniwb5o2a.css",
+      "Route": "css/home.wsm5aty2rc.css",
       "AssetFile": "C:\\Users\\Florijan\\Documents\\AlgebraProjects\\ProjectTask_RWA\\TripManager\\TripManagerWebApp\\wwwroot\\css\\home.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -2257,7 +2257,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "16764"
+          "Value": "12719"
         },
         {
           "Name": "Content-Type",
@@ -2265,11 +2265,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"UDpuYbSdZIXMF9eyE07SCuT/jXv29v3Jh++SBYIv4bI=\""
+          "Value": "\"UH/fGjFbyHuFOyS/K9poMijB2UqQXPH6hxys94dYsKY=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 19 Mar 2026 16:41:39 GMT"
+          "Value": "Thu, 19 Mar 2026 17:09:17 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2279,7 +2279,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "sxniwb5o2a"
+          "Value": "wsm5aty2rc"
         },
         {
           "Name": "label",
@@ -2287,12 +2287,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-UDpuYbSdZIXMF9eyE07SCuT/jXv29v3Jh++SBYIv4bI="
+          "Value": "sha256-UH/fGjFbyHuFOyS/K9poMijB2UqQXPH6hxys94dYsKY="
         }
       ]
     },
     {
-      "Route": "css/login.7dgr2c5z1d.css",
+      "Route": "css/login.b77ysb2u6g.css",
       "AssetFile": "C:\\Users\\Florijan\\Documents\\AlgebraProjects\\ProjectTask_RWA\\TripManager\\TripManagerWebApp\\wwwroot\\css\\login.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -2302,7 +2302,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "9474"
+          "Value": "6437"
         },
         {
           "Name": "Content-Type",
@@ -2310,11 +2310,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"ZXLmm46S9LD2An/PTZ8aFfRsRAmr5WK7wTVuCOoYEOA=\""
+          "Value": "\"96D6u86eK+R6if3sd+Vd5qCHqAnzf3q9QyJOdjuqbpY=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 19 Mar 2026 16:46:40 GMT"
+          "Value": "Thu, 19 Mar 2026 17:09:35 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2324,7 +2324,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "7dgr2c5z1d"
+          "Value": "b77ysb2u6g"
         },
         {
           "Name": "label",
@@ -2332,7 +2332,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-ZXLmm46S9LD2An/PTZ8aFfRsRAmr5WK7wTVuCOoYEOA="
+          "Value": "sha256-96D6u86eK+R6if3sd+Vd5qCHqAnzf3q9QyJOdjuqbpY="
         }
       ]
     },
@@ -2347,7 +2347,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "9474"
+          "Value": "6437"
         },
         {
           "Name": "Content-Type",
@@ -2355,11 +2355,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"ZXLmm46S9LD2An/PTZ8aFfRsRAmr5WK7wTVuCOoYEOA=\""
+          "Value": "\"96D6u86eK+R6if3sd+Vd5qCHqAnzf3q9QyJOdjuqbpY=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 19 Mar 2026 16:46:40 GMT"
+          "Value": "Thu, 19 Mar 2026 17:09:35 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2369,7 +2369,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-ZXLmm46S9LD2An/PTZ8aFfRsRAmr5WK7wTVuCOoYEOA="
+          "Value": "sha256-96D6u86eK+R6if3sd+Vd5qCHqAnzf3q9QyJOdjuqbpY="
         }
       ]
     },
@@ -2384,7 +2384,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "7019"
+          "Value": "5626"
         },
         {
           "Name": "Content-Type",
@@ -2392,11 +2392,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"DSumhFi7w4AehnWgOM74Y5Ev7XRAs26SpHAa2795NmM=\""
+          "Value": "\"QM2216rHjh+nfg0pFeQs39utYvcCAs6vwMR8MTzL/vM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 19 Mar 2026 16:51:37 GMT"
+          "Value": "Thu, 19 Mar 2026 17:09:48 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2406,12 +2406,12 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-DSumhFi7w4AehnWgOM74Y5Ev7XRAs26SpHAa2795NmM="
+          "Value": "sha256-QM2216rHjh+nfg0pFeQs39utYvcCAs6vwMR8MTzL/vM="
         }
       ]
     },
     {
-      "Route": "css/logout.phtrtwagcg.css",
+      "Route": "css/logout.oezme20z2q.css",
       "AssetFile": "C:\\Users\\Florijan\\Documents\\AlgebraProjects\\ProjectTask_RWA\\TripManager\\TripManagerWebApp\\wwwroot\\css\\logout.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -2421,7 +2421,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "7019"
+          "Value": "5626"
         },
         {
           "Name": "Content-Type",
@@ -2429,11 +2429,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"DSumhFi7w4AehnWgOM74Y5Ev7XRAs26SpHAa2795NmM=\""
+          "Value": "\"QM2216rHjh+nfg0pFeQs39utYvcCAs6vwMR8MTzL/vM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 19 Mar 2026 16:51:37 GMT"
+          "Value": "Thu, 19 Mar 2026 17:09:48 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2443,7 +2443,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "phtrtwagcg"
+          "Value": "oezme20z2q"
         },
         {
           "Name": "label",
@@ -2451,52 +2451,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-DSumhFi7w4AehnWgOM74Y5Ev7XRAs26SpHAa2795NmM="
-        }
-      ]
-    },
-    {
-      "Route": "css/profile.41qpt2vb5l.css",
-      "AssetFile": "C:\\Users\\Florijan\\Documents\\AlgebraProjects\\ProjectTask_RWA\\TripManager\\TripManagerWebApp\\wwwroot\\css\\profile.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "13920"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"CIWH4FX6JGsudF8iO5YPrqopW3hIJwqhsu3QqRPk+uE=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 19 Mar 2026 16:47:13 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "41qpt2vb5l"
-        },
-        {
-          "Name": "label",
-          "Value": "css/profile.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-CIWH4FX6JGsudF8iO5YPrqopW3hIJwqhsu3QqRPk+uE="
+          "Value": "sha256-QM2216rHjh+nfg0pFeQs39utYvcCAs6vwMR8MTzL/vM="
         }
       ]
     },
@@ -2511,7 +2466,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "13920"
+          "Value": "9602"
         },
         {
           "Name": "Content-Type",
@@ -2519,11 +2474,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"CIWH4FX6JGsudF8iO5YPrqopW3hIJwqhsu3QqRPk+uE=\""
+          "Value": "\"26u02fGzbzoKVpO6TTmHbblytoS0KbQ3sEZQWQxiV9c=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 19 Mar 2026 16:47:13 GMT"
+          "Value": "Thu, 19 Mar 2026 18:10:20 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2533,7 +2488,52 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-CIWH4FX6JGsudF8iO5YPrqopW3hIJwqhsu3QqRPk+uE="
+          "Value": "sha256-26u02fGzbzoKVpO6TTmHbblytoS0KbQ3sEZQWQxiV9c="
+        }
+      ]
+    },
+    {
+      "Route": "css/profile.f71nqj4ybl.css",
+      "AssetFile": "C:\\Users\\Florijan\\Documents\\AlgebraProjects\\ProjectTask_RWA\\TripManager\\TripManagerWebApp\\wwwroot\\css\\profile.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9602"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"26u02fGzbzoKVpO6TTmHbblytoS0KbQ3sEZQWQxiV9c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 19 Mar 2026 18:10:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "f71nqj4ybl"
+        },
+        {
+          "Name": "label",
+          "Value": "css/profile.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-26u02fGzbzoKVpO6TTmHbblytoS0KbQ3sEZQWQxiV9c="
         }
       ]
     },
@@ -2548,7 +2548,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "9716"
+          "Value": "6837"
         },
         {
           "Name": "Content-Type",
@@ -2556,11 +2556,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"2cAPibDV1Sr8LTRW0Sr377hndKXQuY9iHQ1Fxp4paBk=\""
+          "Value": "\"K8QQZdvWENpMxzdQ1o2RMhOA8I5SvDQy/EWTInUBj0s=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 19 Mar 2026 17:00:02 GMT"
+          "Value": "Thu, 19 Mar 2026 17:10:51 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2570,12 +2570,12 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-2cAPibDV1Sr8LTRW0Sr377hndKXQuY9iHQ1Fxp4paBk="
+          "Value": "sha256-K8QQZdvWENpMxzdQ1o2RMhOA8I5SvDQy/EWTInUBj0s="
         }
       ]
     },
     {
-      "Route": "css/register.n0lvbuev4c.css",
+      "Route": "css/register.jumamb5kkd.css",
       "AssetFile": "C:\\Users\\Florijan\\Documents\\AlgebraProjects\\ProjectTask_RWA\\TripManager\\TripManagerWebApp\\wwwroot\\css\\register.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -2585,7 +2585,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "9716"
+          "Value": "6837"
         },
         {
           "Name": "Content-Type",
@@ -2593,11 +2593,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"2cAPibDV1Sr8LTRW0Sr377hndKXQuY9iHQ1Fxp4paBk=\""
+          "Value": "\"K8QQZdvWENpMxzdQ1o2RMhOA8I5SvDQy/EWTInUBj0s=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 19 Mar 2026 17:00:02 GMT"
+          "Value": "Thu, 19 Mar 2026 17:10:51 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2607,7 +2607,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "n0lvbuev4c"
+          "Value": "jumamb5kkd"
         },
         {
           "Name": "label",
@@ -2615,7 +2615,52 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-2cAPibDV1Sr8LTRW0Sr377hndKXQuY9iHQ1Fxp4paBk="
+          "Value": "sha256-K8QQZdvWENpMxzdQ1o2RMhOA8I5SvDQy/EWTInUBj0s="
+        }
+      ]
+    },
+    {
+      "Route": "css/search.1ekg44vn39.css",
+      "AssetFile": "C:\\Users\\Florijan\\Documents\\AlgebraProjects\\ProjectTask_RWA\\TripManager\\TripManagerWebApp\\wwwroot\\css\\search.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4958"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"OY+OsCOOuh8umZTRKU13AZHCkGUySL0IcgetWj5EKmI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 19 Mar 2026 17:11:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "1ekg44vn39"
+        },
+        {
+          "Name": "label",
+          "Value": "css/search.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-OY+OsCOOuh8umZTRKU13AZHCkGUySL0IcgetWj5EKmI="
         }
       ]
     },
@@ -2630,7 +2675,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "6934"
+          "Value": "4958"
         },
         {
           "Name": "Content-Type",
@@ -2638,11 +2683,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"0fTlgtVywq6s/ZLzMRWmasfYfHyVY5wrsf54jrPtdg0=\""
+          "Value": "\"OY+OsCOOuh8umZTRKU13AZHCkGUySL0IcgetWj5EKmI=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 19 Mar 2026 16:31:23 GMT"
+          "Value": "Thu, 19 Mar 2026 17:11:11 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2652,13 +2697,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-0fTlgtVywq6s/ZLzMRWmasfYfHyVY5wrsf54jrPtdg0="
+          "Value": "sha256-OY+OsCOOuh8umZTRKU13AZHCkGUySL0IcgetWj5EKmI="
         }
       ]
     },
     {
-      "Route": "css/search.zj6gmwft3h.css",
-      "AssetFile": "C:\\Users\\Florijan\\Documents\\AlgebraProjects\\ProjectTask_RWA\\TripManager\\TripManagerWebApp\\wwwroot\\css\\search.css",
+      "Route": "css/tripList.10arxxlewz.css",
+      "AssetFile": "C:\\Users\\Florijan\\Documents\\AlgebraProjects\\ProjectTask_RWA\\TripManager\\TripManagerWebApp\\wwwroot\\css\\tripList.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2667,7 +2712,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "6934"
+          "Value": "11605"
         },
         {
           "Name": "Content-Type",
@@ -2675,11 +2720,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"0fTlgtVywq6s/ZLzMRWmasfYfHyVY5wrsf54jrPtdg0=\""
+          "Value": "\"YSBQpqbpOd0FfmFB22JMVdMmqj5MSlK3zs9GNsMXRdw=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 19 Mar 2026 16:31:23 GMT"
+          "Value": "Thu, 19 Mar 2026 17:11:36 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2689,15 +2734,15 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "zj6gmwft3h"
+          "Value": "10arxxlewz"
         },
         {
           "Name": "label",
-          "Value": "css/search.css"
+          "Value": "css/tripList.css"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-0fTlgtVywq6s/ZLzMRWmasfYfHyVY5wrsf54jrPtdg0="
+          "Value": "sha256-YSBQpqbpOd0FfmFB22JMVdMmqj5MSlK3zs9GNsMXRdw="
         }
       ]
     },
@@ -2712,7 +2757,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "16086"
+          "Value": "11605"
         },
         {
           "Name": "Content-Type",
@@ -2720,11 +2765,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"MKrIbx7oUdOxM2giPyKP2ctL6nzbzWXY41tfMDEnfN8=\""
+          "Value": "\"YSBQpqbpOd0FfmFB22JMVdMmqj5MSlK3zs9GNsMXRdw=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 19 Mar 2026 16:28:51 GMT"
+          "Value": "Thu, 19 Mar 2026 17:11:36 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2734,52 +2779,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-MKrIbx7oUdOxM2giPyKP2ctL6nzbzWXY41tfMDEnfN8="
-        }
-      ]
-    },
-    {
-      "Route": "css/tripList.s1pwvofx2z.css",
-      "AssetFile": "C:\\Users\\Florijan\\Documents\\AlgebraProjects\\ProjectTask_RWA\\TripManager\\TripManagerWebApp\\wwwroot\\css\\tripList.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "16086"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"MKrIbx7oUdOxM2giPyKP2ctL6nzbzWXY41tfMDEnfN8=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 19 Mar 2026 16:28:51 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "s1pwvofx2z"
-        },
-        {
-          "Name": "label",
-          "Value": "css/tripList.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-MKrIbx7oUdOxM2giPyKP2ctL6nzbzWXY41tfMDEnfN8="
+          "Value": "sha256-YSBQpqbpOd0FfmFB22JMVdMmqj5MSlK3zs9GNsMXRdw="
         }
       ]
     },
@@ -2806,7 +2806,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 17 Dec 2025 11:50:02 GMT"
+          "Value": "Thu, 19 Mar 2026 17:11:42 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2843,7 +2843,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 17 Dec 2025 11:50:02 GMT"
+          "Value": "Thu, 19 Mar 2026 17:11:42 GMT"
         },
         {
           "Name": "Cache-Control",

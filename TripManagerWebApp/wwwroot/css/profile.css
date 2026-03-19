@@ -316,12 +316,13 @@ body {
         transform: translateY(-2px);
     }
 
-/* ── Toast popup ── */
+/* ── Toast popup — fixed to bottom so always visible regardless of scroll ── */
 .profile-popup {
     position: fixed;
-    top: 1.75rem;
+    bottom: 2rem;
+    top: auto;
     left: 50%;
-    transform: translateX(-50%);
+    transform: translateX(-50%) translateY(0);
     background: var(--ink);
     color: var(--white);
     padding: 0.9rem 2rem;
@@ -330,21 +331,34 @@ body {
     font-family: 'DM Sans', sans-serif;
     font-size: 0.92rem;
     font-weight: 500;
-    box-shadow: var(--shadow-md);
+    box-shadow: 0 8px 28px rgba(26,26,46,0.25);
     opacity: 0.96;
-    transition: opacity 0.3s;
+    transition: opacity 0.4s, transform 0.4s;
     white-space: nowrap;
+    animation: toastUp 0.4s cubic-bezier(0.4, 0, 0.2, 1) both;
 }
 
-    .profile-popup.success {
-        background: var(--sage);
-        box-shadow: 0 6px 20px rgba(45,122,95,0.3);
+@keyframes toastUp {
+    from {
+        opacity: 0;
+        transform: translateX(-50%) translateY(16px);
     }
 
-    .profile-popup.danger {
-        background: var(--coral);
-        box-shadow: 0 6px 20px rgba(224,92,58,0.3);
+    to {
+        opacity: 0.96;
+        transform: translateX(-50%) translateY(0);
     }
+}
+
+.profile-popup.success {
+    background: var(--sage);
+    box-shadow: 0 6px 20px rgba(45,122,95,0.3);
+}
+
+.profile-popup.danger {
+    background: var(--coral);
+    box-shadow: 0 6px 20px rgba(224,92,58,0.3);
+}
 
 /* ── Responsive ── */
 @media (max-width: 768px) {

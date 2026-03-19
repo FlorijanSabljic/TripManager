@@ -3,20 +3,72 @@
   "WorkspaceRootPath": "C:\\Users\\Florijan\\Documents\\AlgebraProjects\\ProjectTask_RWA\\TripManager\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{42A93AF9-5207-48A2-81B7-A04E7AF19A99}|TripManagerWebApp\\TripManagerWebApp.csproj|c:\\users\\florijan\\documents\\algebraprojects\\projecttask_rwa\\tripmanager\\tripmanagerwebapp\\wwwroot\\css\\register.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{42A93AF9-5207-48A2-81B7-A04E7AF19A99}|TripManagerWebApp\\TripManagerWebApp.csproj|solutionrelative:tripmanagerwebapp\\wwwroot\\css\\register.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{42A93AF9-5207-48A2-81B7-A04E7AF19A99}|TripManagerWebApp\\TripManagerWebApp.csproj|c:\\users\\florijan\\documents\\algebraprojects\\projecttask_rwa\\tripmanager\\tripmanagerwebapp\\wwwroot\\css\\contact.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{42A93AF9-5207-48A2-81B7-A04E7AF19A99}|TripManagerWebApp\\TripManagerWebApp.csproj|solutionrelative:tripmanagerwebapp\\wwwroot\\css\\contact.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{42A93AF9-5207-48A2-81B7-A04E7AF19A99}|TripManagerWebApp\\TripManagerWebApp.csproj|c:\\users\\florijan\\documents\\algebraprojects\\projecttask_rwa\\tripmanager\\tripmanagerwebapp\\controllers\\tripcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42A93AF9-5207-48A2-81B7-A04E7AF19A99}|TripManagerWebApp\\TripManagerWebApp.csproj|solutionrelative:tripmanagerwebapp\\controllers\\tripcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{42A93AF9-5207-48A2-81B7-A04E7AF19A99}|TripManagerWebApp\\TripManagerWebApp.csproj|c:\\users\\florijan\\documents\\algebraprojects\\projecttask_rwa\\tripmanager\\tripmanagerwebapp\\controllers\\reservationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{42A93AF9-5207-48A2-81B7-A04E7AF19A99}|TripManagerWebApp\\TripManagerWebApp.csproj|solutionrelative:tripmanagerwebapp\\controllers\\reservationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{42A93AF9-5207-48A2-81B7-A04E7AF19A99}|TripManagerWebApp\\TripManagerWebApp.csproj|c:\\users\\florijan\\documents\\algebraprojects\\projecttask_rwa\\tripmanager\\tripmanagerwebapp\\views\\reservation\\bookingdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{42A93AF9-5207-48A2-81B7-A04E7AF19A99}|TripManagerWebApp\\TripManagerWebApp.csproj|solutionrelative:tripmanagerwebapp\\views\\reservation\\bookingdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{42A93AF9-5207-48A2-81B7-A04E7AF19A99}|TripManagerWebApp\\TripManagerWebApp.csproj|c:\\users\\florijan\\documents\\algebraprojects\\projecttask_rwa\\tripmanager\\tripmanagerwebapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42A93AF9-5207-48A2-81B7-A04E7AF19A99}|TripManagerWebApp\\TripManagerWebApp.csproj|solutionrelative:tripmanagerwebapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42A93AF9-5207-48A2-81B7-A04E7AF19A99}|TripManagerWebApp\\TripManagerWebApp.csproj|c:\\users\\florijan\\documents\\algebraprojects\\projecttask_rwa\\tripmanager\\tripmanagerwebapp\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42A93AF9-5207-48A2-81B7-A04E7AF19A99}|TripManagerWebApp\\TripManagerWebApp.csproj|solutionrelative:tripmanagerwebapp\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42A93AF9-5207-48A2-81B7-A04E7AF19A99}|TripManagerWebApp\\TripManagerWebApp.csproj|c:\\users\\florijan\\documents\\algebraprojects\\projecttask_rwa\\tripmanager\\tripmanagerwebapp\\wwwroot\\css\\tripsforreservation.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{42A93AF9-5207-48A2-81B7-A04E7AF19A99}|TripManagerWebApp\\TripManagerWebApp.csproj|solutionrelative:tripmanagerwebapp\\wwwroot\\css\\tripsforreservation.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42A93AF9-5207-48A2-81B7-A04E7AF19A99}|TripManagerWebApp\\TripManagerWebApp.csproj|c:\\users\\florijan\\documents\\algebraprojects\\projecttask_rwa\\tripmanager\\tripmanagerwebapp\\wwwroot\\css\\triplist.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{42A93AF9-5207-48A2-81B7-A04E7AF19A99}|TripManagerWebApp\\TripManagerWebApp.csproj|solutionrelative:tripmanagerwebapp\\wwwroot\\css\\triplist.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42A93AF9-5207-48A2-81B7-A04E7AF19A99}|TripManagerWebApp\\TripManagerWebApp.csproj|c:\\users\\florijan\\documents\\algebraprojects\\projecttask_rwa\\tripmanager\\tripmanagerwebapp\\wwwroot\\css\\search.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{42A93AF9-5207-48A2-81B7-A04E7AF19A99}|TripManagerWebApp\\TripManagerWebApp.csproj|solutionrelative:tripmanagerwebapp\\wwwroot\\css\\search.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42A93AF9-5207-48A2-81B7-A04E7AF19A99}|TripManagerWebApp\\TripManagerWebApp.csproj|c:\\users\\florijan\\documents\\algebraprojects\\projecttask_rwa\\tripmanager\\tripmanagerwebapp\\wwwroot\\css\\register.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{42A93AF9-5207-48A2-81B7-A04E7AF19A99}|TripManagerWebApp\\TripManagerWebApp.csproj|solutionrelative:tripmanagerwebapp\\wwwroot\\css\\register.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42A93AF9-5207-48A2-81B7-A04E7AF19A99}|TripManagerWebApp\\TripManagerWebApp.csproj|c:\\users\\florijan\\documents\\algebraprojects\\projecttask_rwa\\tripmanager\\tripmanagerwebapp\\wwwroot\\css\\profile.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{42A93AF9-5207-48A2-81B7-A04E7AF19A99}|TripManagerWebApp\\TripManagerWebApp.csproj|solutionrelative:tripmanagerwebapp\\wwwroot\\css\\profile.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42A93AF9-5207-48A2-81B7-A04E7AF19A99}|TripManagerWebApp\\TripManagerWebApp.csproj|c:\\users\\florijan\\documents\\algebraprojects\\projecttask_rwa\\tripmanager\\tripmanagerwebapp\\wwwroot\\css\\logout.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{42A93AF9-5207-48A2-81B7-A04E7AF19A99}|TripManagerWebApp\\TripManagerWebApp.csproj|solutionrelative:tripmanagerwebapp\\wwwroot\\css\\logout.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42A93AF9-5207-48A2-81B7-A04E7AF19A99}|TripManagerWebApp\\TripManagerWebApp.csproj|c:\\users\\florijan\\documents\\algebraprojects\\projecttask_rwa\\tripmanager\\tripmanagerwebapp\\wwwroot\\css\\login.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{42A93AF9-5207-48A2-81B7-A04E7AF19A99}|TripManagerWebApp\\TripManagerWebApp.csproj|solutionrelative:tripmanagerwebapp\\wwwroot\\css\\login.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42A93AF9-5207-48A2-81B7-A04E7AF19A99}|TripManagerWebApp\\TripManagerWebApp.csproj|c:\\users\\florijan\\documents\\algebraprojects\\projecttask_rwa\\tripmanager\\tripmanagerwebapp\\wwwroot\\css\\home.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{42A93AF9-5207-48A2-81B7-A04E7AF19A99}|TripManagerWebApp\\TripManagerWebApp.csproj|solutionrelative:tripmanagerwebapp\\wwwroot\\css\\home.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42A93AF9-5207-48A2-81B7-A04E7AF19A99}|TripManagerWebApp\\TripManagerWebApp.csproj|c:\\users\\florijan\\documents\\algebraprojects\\projecttask_rwa\\tripmanager\\tripmanagerwebapp\\wwwroot\\css\\edittrip.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{42A93AF9-5207-48A2-81B7-A04E7AF19A99}|TripManagerWebApp\\TripManagerWebApp.csproj|solutionrelative:tripmanagerwebapp\\wwwroot\\css\\edittrip.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42A93AF9-5207-48A2-81B7-A04E7AF19A99}|TripManagerWebApp\\TripManagerWebApp.csproj|c:\\users\\florijan\\documents\\algebraprojects\\projecttask_rwa\\tripmanager\\tripmanagerwebapp\\wwwroot\\css\\detailstrip.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{42A93AF9-5207-48A2-81B7-A04E7AF19A99}|TripManagerWebApp\\TripManagerWebApp.csproj|solutionrelative:tripmanagerwebapp\\wwwroot\\css\\detailstrip.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42A93AF9-5207-48A2-81B7-A04E7AF19A99}|TripManagerWebApp\\TripManagerWebApp.csproj|c:\\users\\florijan\\documents\\algebraprojects\\projecttask_rwa\\tripmanager\\tripmanagerwebapp\\wwwroot\\css\\deletetrip.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{42A93AF9-5207-48A2-81B7-A04E7AF19A99}|TripManagerWebApp\\TripManagerWebApp.csproj|solutionrelative:tripmanagerwebapp\\wwwroot\\css\\deletetrip.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42A93AF9-5207-48A2-81B7-A04E7AF19A99}|TripManagerWebApp\\TripManagerWebApp.csproj|c:\\users\\florijan\\documents\\algebraprojects\\projecttask_rwa\\tripmanager\\tripmanagerwebapp\\wwwroot\\css\\createtrip.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{42A93AF9-5207-48A2-81B7-A04E7AF19A99}|TripManagerWebApp\\TripManagerWebApp.csproj|solutionrelative:tripmanagerwebapp\\wwwroot\\css\\createtrip.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42A93AF9-5207-48A2-81B7-A04E7AF19A99}|TripManagerWebApp\\TripManagerWebApp.csproj|c:\\users\\florijan\\documents\\algebraprojects\\projecttask_rwa\\tripmanager\\tripmanagerwebapp\\wwwroot\\css\\contact.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{42A93AF9-5207-48A2-81B7-A04E7AF19A99}|TripManagerWebApp\\TripManagerWebApp.csproj|solutionrelative:tripmanagerwebapp\\wwwroot\\css\\contact.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{42A93AF9-5207-48A2-81B7-A04E7AF19A99}|TripManagerWebApp\\TripManagerWebApp.csproj|c:\\users\\florijan\\documents\\algebraprojects\\projecttask_rwa\\tripmanager\\tripmanagerwebapp\\wwwroot\\css\\booktrip.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
@@ -25,6 +77,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{42A93AF9-5207-48A2-81B7-A04E7AF19A99}|TripManagerWebApp\\TripManagerWebApp.csproj|c:\\users\\florijan\\documents\\algebraprojects\\projecttask_rwa\\tripmanager\\tripmanagerwebapp\\wwwroot\\css\\bookingdetails.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{42A93AF9-5207-48A2-81B7-A04E7AF19A99}|TripManagerWebApp\\TripManagerWebApp.csproj|solutionrelative:tripmanagerwebapp\\wwwroot\\css\\bookingdetails.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42A93AF9-5207-48A2-81B7-A04E7AF19A99}|TripManagerWebApp\\TripManagerWebApp.csproj|c:\\users\\florijan\\documents\\algebraprojects\\projecttask_rwa\\tripmanager\\tripmanagerwebapp\\views\\reservation\\bookingdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{42A93AF9-5207-48A2-81B7-A04E7AF19A99}|TripManagerWebApp\\TripManagerWebApp.csproj|solutionrelative:tripmanagerwebapp\\views\\reservation\\bookingdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{42A93AF9-5207-48A2-81B7-A04E7AF19A99}|TripManagerWebApp\\TripManagerWebApp.csproj|c:\\users\\florijan\\documents\\algebraprojects\\projecttask_rwa\\tripmanager\\tripmanagerwebapp\\views\\reservation\\booktrip.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -43,18 +99,6 @@
       "RelativeMoniker": "D:0:0:{42A93AF9-5207-48A2-81B7-A04E7AF19A99}|TripManagerWebApp\\TripManagerWebApp.csproj|solutionrelative:tripmanagerwebapp\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{42A93AF9-5207-48A2-81B7-A04E7AF19A99}|TripManagerWebApp\\TripManagerWebApp.csproj|c:\\users\\florijan\\documents\\algebraprojects\\projecttask_rwa\\tripmanager\\tripmanagerwebapp\\wwwroot\\css\\profile.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{42A93AF9-5207-48A2-81B7-A04E7AF19A99}|TripManagerWebApp\\TripManagerWebApp.csproj|solutionrelative:tripmanagerwebapp\\wwwroot\\css\\profile.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{42A93AF9-5207-48A2-81B7-A04E7AF19A99}|TripManagerWebApp\\TripManagerWebApp.csproj|c:\\users\\florijan\\documents\\algebraprojects\\projecttask_rwa\\tripmanager\\tripmanagerwebapp\\wwwroot\\css\\logout.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{42A93AF9-5207-48A2-81B7-A04E7AF19A99}|TripManagerWebApp\\TripManagerWebApp.csproj|solutionrelative:tripmanagerwebapp\\wwwroot\\css\\logout.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{42A93AF9-5207-48A2-81B7-A04E7AF19A99}|TripManagerWebApp\\TripManagerWebApp.csproj|c:\\users\\florijan\\documents\\algebraprojects\\projecttask_rwa\\tripmanager\\tripmanagerwebapp\\wwwroot\\css\\login.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{42A93AF9-5207-48A2-81B7-A04E7AF19A99}|TripManagerWebApp\\TripManagerWebApp.csproj|solutionrelative:tripmanagerwebapp\\wwwroot\\css\\login.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{42A93AF9-5207-48A2-81B7-A04E7AF19A99}|TripManagerWebApp\\TripManagerWebApp.csproj|c:\\users\\florijan\\documents\\algebraprojects\\projecttask_rwa\\tripmanager\\tripmanagerwebapp\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{42A93AF9-5207-48A2-81B7-A04E7AF19A99}|TripManagerWebApp\\TripManagerWebApp.csproj|solutionrelative:tripmanagerwebapp\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -71,10 +115,6 @@
       "RelativeMoniker": "D:0:0:{42A93AF9-5207-48A2-81B7-A04E7AF19A99}|TripManagerWebApp\\TripManagerWebApp.csproj|solutionrelative:tripmanagerwebapp\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{42A93AF9-5207-48A2-81B7-A04E7AF19A99}|TripManagerWebApp\\TripManagerWebApp.csproj|c:\\users\\florijan\\documents\\algebraprojects\\projecttask_rwa\\tripmanager\\tripmanagerwebapp\\wwwroot\\css\\home.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{42A93AF9-5207-48A2-81B7-A04E7AF19A99}|TripManagerWebApp\\TripManagerWebApp.csproj|solutionrelative:tripmanagerwebapp\\wwwroot\\css\\home.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{42A93AF9-5207-48A2-81B7-A04E7AF19A99}|TripManagerWebApp\\TripManagerWebApp.csproj|c:\\users\\florijan\\documents\\algebraprojects\\projecttask_rwa\\tripmanager\\tripmanagerwebapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{42A93AF9-5207-48A2-81B7-A04E7AF19A99}|TripManagerWebApp\\TripManagerWebApp.csproj|solutionrelative:tripmanagerwebapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -85,22 +125,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{42A93AF9-5207-48A2-81B7-A04E7AF19A99}|TripManagerWebApp\\TripManagerWebApp.csproj|c:\\users\\florijan\\documents\\algebraprojects\\projecttask_rwa\\tripmanager\\tripmanagerwebapp\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{42A93AF9-5207-48A2-81B7-A04E7AF19A99}|TripManagerWebApp\\TripManagerWebApp.csproj|solutionrelative:tripmanagerwebapp\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{42A93AF9-5207-48A2-81B7-A04E7AF19A99}|TripManagerWebApp\\TripManagerWebApp.csproj|c:\\users\\florijan\\documents\\algebraprojects\\projecttask_rwa\\tripmanager\\tripmanagerwebapp\\wwwroot\\css\\detailstrip.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{42A93AF9-5207-48A2-81B7-A04E7AF19A99}|TripManagerWebApp\\TripManagerWebApp.csproj|solutionrelative:tripmanagerwebapp\\wwwroot\\css\\detailstrip.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{42A93AF9-5207-48A2-81B7-A04E7AF19A99}|TripManagerWebApp\\TripManagerWebApp.csproj|c:\\users\\florijan\\documents\\algebraprojects\\projecttask_rwa\\tripmanager\\tripmanagerwebapp\\wwwroot\\css\\deletetrip.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{42A93AF9-5207-48A2-81B7-A04E7AF19A99}|TripManagerWebApp\\TripManagerWebApp.csproj|solutionrelative:tripmanagerwebapp\\wwwroot\\css\\deletetrip.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{42A93AF9-5207-48A2-81B7-A04E7AF19A99}|TripManagerWebApp\\TripManagerWebApp.csproj|c:\\users\\florijan\\documents\\algebraprojects\\projecttask_rwa\\tripmanager\\tripmanagerwebapp\\wwwroot\\css\\edittrip.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{42A93AF9-5207-48A2-81B7-A04E7AF19A99}|TripManagerWebApp\\TripManagerWebApp.csproj|solutionrelative:tripmanagerwebapp\\wwwroot\\css\\edittrip.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{42A93AF9-5207-48A2-81B7-A04E7AF19A99}|TripManagerWebApp\\TripManagerWebApp.csproj|c:\\users\\florijan\\documents\\algebraprojects\\projecttask_rwa\\tripmanager\\tripmanagerwebapp\\wwwroot\\css\\createtrip.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{42A93AF9-5207-48A2-81B7-A04E7AF19A99}|TripManagerWebApp\\TripManagerWebApp.csproj|solutionrelative:tripmanagerwebapp\\wwwroot\\css\\createtrip.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{42A93AF9-5207-48A2-81B7-A04E7AF19A99}|TripManagerWebApp\\TripManagerWebApp.csproj|c:\\users\\florijan\\documents\\algebraprojects\\projecttask_rwa\\tripmanager\\tripmanagerwebapp\\views\\trip\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -119,20 +143,8 @@
       "RelativeMoniker": "D:0:0:{42A93AF9-5207-48A2-81B7-A04E7AF19A99}|TripManagerWebApp\\TripManagerWebApp.csproj|solutionrelative:tripmanagerwebapp\\views\\trip\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{42A93AF9-5207-48A2-81B7-A04E7AF19A99}|TripManagerWebApp\\TripManagerWebApp.csproj|c:\\users\\florijan\\documents\\algebraprojects\\projecttask_rwa\\tripmanager\\tripmanagerwebapp\\wwwroot\\css\\tripsforreservation.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{42A93AF9-5207-48A2-81B7-A04E7AF19A99}|TripManagerWebApp\\TripManagerWebApp.csproj|solutionrelative:tripmanagerwebapp\\wwwroot\\css\\tripsforreservation.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{42A93AF9-5207-48A2-81B7-A04E7AF19A99}|TripManagerWebApp\\TripManagerWebApp.csproj|c:\\users\\florijan\\documents\\algebraprojects\\projecttask_rwa\\tripmanager\\tripmanagerwebapp\\wwwroot\\css\\search.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{42A93AF9-5207-48A2-81B7-A04E7AF19A99}|TripManagerWebApp\\TripManagerWebApp.csproj|solutionrelative:tripmanagerwebapp\\wwwroot\\css\\search.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{42A93AF9-5207-48A2-81B7-A04E7AF19A99}|TripManagerWebApp\\TripManagerWebApp.csproj|c:\\users\\florijan\\documents\\algebraprojects\\projecttask_rwa\\tripmanager\\tripmanagerwebapp\\views\\trip\\searchtrips.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{42A93AF9-5207-48A2-81B7-A04E7AF19A99}|TripManagerWebApp\\TripManagerWebApp.csproj|solutionrelative:tripmanagerwebapp\\views\\trip\\searchtrips.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{42A93AF9-5207-48A2-81B7-A04E7AF19A99}|TripManagerWebApp\\TripManagerWebApp.csproj|c:\\users\\florijan\\documents\\algebraprojects\\projecttask_rwa\\tripmanager\\tripmanagerwebapp\\wwwroot\\css\\triplist.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{42A93AF9-5207-48A2-81B7-A04E7AF19A99}|TripManagerWebApp\\TripManagerWebApp.csproj|solutionrelative:tripmanagerwebapp\\wwwroot\\css\\triplist.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{42A93AF9-5207-48A2-81B7-A04E7AF19A99}|TripManagerWebApp\\TripManagerWebApp.csproj|c:\\users\\florijan\\documents\\algebraprojects\\projecttask_rwa\\tripmanager\\tripmanagerwebapp\\views\\trip\\alltrips.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -146,7 +158,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 10,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -158,7 +170,44 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TripController.cs",
+              "DocumentMoniker": "C:\\Users\\Florijan\\Documents\\AlgebraProjects\\ProjectTask_RWA\\TripManager\\TripManagerWebApp\\Controllers\\TripController.cs",
+              "RelativeDocumentMoniker": "TripManagerWebApp\\Controllers\\TripController.cs",
+              "ToolTip": "C:\\Users\\Florijan\\Documents\\AlgebraProjects\\ProjectTask_RWA\\TripManager\\TripManagerWebApp\\Controllers\\TripController.cs",
+              "RelativeToolTip": "TripManagerWebApp\\Controllers\\TripController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T17:12:49.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Florijan\\Documents\\AlgebraProjects\\ProjectTask_RWA\\TripManager\\TripManagerWebApp\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "TripManagerWebApp\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Florijan\\Documents\\AlgebraProjects\\ProjectTask_RWA\\TripManager\\TripManagerWebApp\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "TripManagerWebApp\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T17:12:47.969Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\Florijan\\Documents\\AlgebraProjects\\ProjectTask_RWA\\TripManager\\TripManagerWebApp\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "TripManagerWebApp\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\Florijan\\Documents\\AlgebraProjects\\ProjectTask_RWA\\TripManager\\TripManagerWebApp\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "TripManagerWebApp\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T17:12:47.034Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "ReservationController.cs",
               "DocumentMoniker": "C:\\Users\\Florijan\\Documents\\AlgebraProjects\\ProjectTask_RWA\\TripManager\\TripManagerWebApp\\Controllers\\ReservationController.cs",
               "RelativeDocumentMoniker": "TripManagerWebApp\\Controllers\\ReservationController.cs",
@@ -166,12 +215,11 @@
               "RelativeToolTip": "TripManagerWebApp\\Controllers\\ReservationController.cs",
               "ViewState": "AgIAABABAAAAAAAAAAAqwCIBAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-19T16:54:35.02Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-19T16:54:35.02Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 19,
               "Title": "BookingDetails.cshtml",
               "DocumentMoniker": "C:\\Users\\Florijan\\Documents\\AlgebraProjects\\ProjectTask_RWA\\TripManager\\TripManagerWebApp\\Views\\Reservation\\BookingDetails.cshtml",
               "RelativeDocumentMoniker": "TripManagerWebApp\\Views\\Reservation\\BookingDetails.cshtml",
@@ -179,38 +227,35 @@
               "RelativeToolTip": "TripManagerWebApp\\Views\\Reservation\\BookingDetails.cshtml",
               "ViewState": "AgIAABsAAAAAAAAAAAAAACwAAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-03-19T16:49:51.594Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-19T16:49:51.594Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 18,
               "Title": "bookingDetails.css",
               "DocumentMoniker": "C:\\Users\\Florijan\\Documents\\AlgebraProjects\\ProjectTask_RWA\\TripManager\\TripManagerWebApp\\wwwroot\\css\\bookingDetails.css",
               "RelativeDocumentMoniker": "TripManagerWebApp\\wwwroot\\css\\bookingDetails.css",
               "ToolTip": "C:\\Users\\Florijan\\Documents\\AlgebraProjects\\ProjectTask_RWA\\TripManager\\TripManagerWebApp\\wwwroot\\css\\bookingDetails.css",
               "RelativeToolTip": "TripManagerWebApp\\wwwroot\\css\\bookingDetails.css",
-              "ViewState": "AgIAAE0BAAAAAAAAAAAkwG8BAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2026-03-19T16:49:40.706Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-19T16:49:40.706Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 17,
               "Title": "bookTrip.css",
               "DocumentMoniker": "C:\\Users\\Florijan\\Documents\\AlgebraProjects\\ProjectTask_RWA\\TripManager\\TripManagerWebApp\\wwwroot\\css\\bookTrip.css",
               "RelativeDocumentMoniker": "TripManagerWebApp\\wwwroot\\css\\bookTrip.css",
               "ToolTip": "C:\\Users\\Florijan\\Documents\\AlgebraProjects\\ProjectTask_RWA\\TripManager\\TripManagerWebApp\\wwwroot\\css\\bookTrip.css",
               "RelativeToolTip": "TripManagerWebApp\\wwwroot\\css\\bookTrip.css",
-              "ViewState": "AgIAANoBAAAAAAAAAAAkwOkBAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2026-03-19T16:49:09.529Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-19T16:49:09.529Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 20,
               "Title": "BookTrip.cshtml",
               "DocumentMoniker": "C:\\Users\\Florijan\\Documents\\AlgebraProjects\\ProjectTask_RWA\\TripManager\\TripManagerWebApp\\Views\\Reservation\\BookTrip.cshtml",
               "RelativeDocumentMoniker": "TripManagerWebApp\\Views\\Reservation\\BookTrip.cshtml",
@@ -218,12 +263,11 @@
               "RelativeToolTip": "TripManagerWebApp\\Views\\Reservation\\BookTrip.cshtml",
               "ViewState": "AgIAADEAAAAAAAAAAAAswFIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-03-19T16:48:53.805Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-19T16:48:53.805Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 21,
               "Title": "MyBookings.cshtml",
               "DocumentMoniker": "C:\\Users\\Florijan\\Documents\\AlgebraProjects\\ProjectTask_RWA\\TripManager\\TripManagerWebApp\\Views\\Reservation\\MyBookings.cshtml",
               "RelativeDocumentMoniker": "TripManagerWebApp\\Views\\Reservation\\MyBookings.cshtml",
@@ -231,12 +275,11 @@
               "RelativeToolTip": "TripManagerWebApp\\Views\\Reservation\\MyBookings.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-03-19T16:48:48.43Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-19T16:48:48.43Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 22,
               "Title": "TripsForReservation.cshtml",
               "DocumentMoniker": "C:\\Users\\Florijan\\Documents\\AlgebraProjects\\ProjectTask_RWA\\TripManager\\TripManagerWebApp\\Views\\Reservation\\TripsForReservation.cshtml",
               "RelativeDocumentMoniker": "TripManagerWebApp\\Views\\Reservation\\TripsForReservation.cshtml",
@@ -244,90 +287,83 @@
               "RelativeToolTip": "TripManagerWebApp\\Views\\Reservation\\TripsForReservation.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-03-19T16:48:43.251Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-19T16:48:43.251Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 16,
               "Title": "contact.css",
               "DocumentMoniker": "C:\\Users\\Florijan\\Documents\\AlgebraProjects\\ProjectTask_RWA\\TripManager\\TripManagerWebApp\\wwwroot\\css\\contact.css",
               "RelativeDocumentMoniker": "TripManagerWebApp\\wwwroot\\css\\contact.css",
               "ToolTip": "C:\\Users\\Florijan\\Documents\\AlgebraProjects\\ProjectTask_RWA\\TripManager\\TripManagerWebApp\\wwwroot\\css\\contact.css",
               "RelativeToolTip": "TripManagerWebApp\\wwwroot\\css\\contact.css",
-              "ViewState": "AgIAALsAAAAAAAAAAAAuwMgAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAMgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2026-03-19T16:47:37.475Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-19T16:47:37.475Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 7,
               "Title": "register.css",
               "DocumentMoniker": "C:\\Users\\Florijan\\Documents\\AlgebraProjects\\ProjectTask_RWA\\TripManager\\TripManagerWebApp\\wwwroot\\css\\register.css",
               "RelativeDocumentMoniker": "TripManagerWebApp\\wwwroot\\css\\register.css",
               "ToolTip": "C:\\Users\\Florijan\\Documents\\AlgebraProjects\\ProjectTask_RWA\\TripManager\\TripManagerWebApp\\wwwroot\\css\\register.css",
               "RelativeToolTip": "TripManagerWebApp\\wwwroot\\css\\register.css",
-              "ViewState": "AgIAAJcBAAAAAAAAAAAmwKsBAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2026-03-19T16:43:38.256Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-19T16:43:38.256Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 8,
               "Title": "profile.css",
               "DocumentMoniker": "C:\\Users\\Florijan\\Documents\\AlgebraProjects\\ProjectTask_RWA\\TripManager\\TripManagerWebApp\\wwwroot\\css\\profile.css",
               "RelativeDocumentMoniker": "TripManagerWebApp\\wwwroot\\css\\profile.css",
               "ToolTip": "C:\\Users\\Florijan\\Documents\\AlgebraProjects\\ProjectTask_RWA\\TripManager\\TripManagerWebApp\\wwwroot\\css\\profile.css",
               "RelativeToolTip": "TripManagerWebApp\\wwwroot\\css\\profile.css",
-              "ViewState": "AgIAAFgCAAAAAAAAAAAQwHsCAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2026-03-19T16:43:18.418Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-19T16:43:18.418Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 9,
               "Title": "logout.css",
               "DocumentMoniker": "C:\\Users\\Florijan\\Documents\\AlgebraProjects\\ProjectTask_RWA\\TripManager\\TripManagerWebApp\\wwwroot\\css\\logout.css",
               "RelativeDocumentMoniker": "TripManagerWebApp\\wwwroot\\css\\logout.css",
               "ToolTip": "C:\\Users\\Florijan\\Documents\\AlgebraProjects\\ProjectTask_RWA\\TripManager\\TripManagerWebApp\\wwwroot\\css\\logout.css",
               "RelativeToolTip": "TripManagerWebApp\\wwwroot\\css\\logout.css",
-              "ViewState": "AgIAAP4AAAAAAAAAAAAQwCEBAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2026-03-19T16:43:03.965Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-19T16:43:03.965Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 10,
               "Title": "login.css",
               "DocumentMoniker": "C:\\Users\\Florijan\\Documents\\AlgebraProjects\\ProjectTask_RWA\\TripManager\\TripManagerWebApp\\wwwroot\\css\\login.css",
               "RelativeDocumentMoniker": "TripManagerWebApp\\wwwroot\\css\\login.css",
               "ToolTip": "C:\\Users\\Florijan\\Documents\\AlgebraProjects\\ProjectTask_RWA\\TripManager\\TripManagerWebApp\\wwwroot\\css\\login.css",
               "RelativeToolTip": "TripManagerWebApp\\wwwroot\\css\\login.css",
-              "ViewState": "AgIAAIgBAAAAAAAAAAAQwKsBAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2026-03-19T16:42:52.783Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-19T16:42:52.783Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 11,
               "Title": "home.css",
               "DocumentMoniker": "C:\\Users\\Florijan\\Documents\\AlgebraProjects\\ProjectTask_RWA\\TripManager\\TripManagerWebApp\\wwwroot\\css\\home.css",
               "RelativeDocumentMoniker": "TripManagerWebApp\\wwwroot\\css\\home.css",
               "ToolTip": "C:\\Users\\Florijan\\Documents\\AlgebraProjects\\ProjectTask_RWA\\TripManager\\TripManagerWebApp\\wwwroot\\css\\home.css",
               "RelativeToolTip": "TripManagerWebApp\\wwwroot\\css\\home.css",
-              "ViewState": "AgIAAGoCAAAAAAAAAAAAAIACAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2026-03-19T16:40:29.809Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-19T16:40:29.809Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 28,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\Florijan\\Documents\\AlgebraProjects\\ProjectTask_RWA\\TripManager\\TripManagerWebApp\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "TripManagerWebApp\\Views\\Shared\\_Layout.cshtml",
@@ -335,12 +371,11 @@
               "RelativeToolTip": "TripManagerWebApp\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAC0AAAAAAAAAAAAiwE8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-03-19T16:40:07.269Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-19T16:40:07.269Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 30,
               "Title": "Privacy.cshtml",
               "DocumentMoniker": "C:\\Users\\Florijan\\Documents\\AlgebraProjects\\ProjectTask_RWA\\TripManager\\TripManagerWebApp\\Views\\Home\\Privacy.cshtml",
               "RelativeDocumentMoniker": "TripManagerWebApp\\Views\\Home\\Privacy.cshtml",
@@ -348,12 +383,11 @@
               "RelativeToolTip": "TripManagerWebApp\\Views\\Home\\Privacy.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-03-19T16:40:01.129Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-19T16:40:01.129Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 29,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Florijan\\Documents\\AlgebraProjects\\ProjectTask_RWA\\TripManager\\TripManagerWebApp\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "TripManagerWebApp\\Views\\Home\\Index.cshtml",
@@ -361,12 +395,11 @@
               "RelativeToolTip": "TripManagerWebApp\\Views\\Home\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-03-19T16:39:58.162Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-19T16:39:58.162Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 23,
               "Title": "Contact.cshtml",
               "DocumentMoniker": "C:\\Users\\Florijan\\Documents\\AlgebraProjects\\ProjectTask_RWA\\TripManager\\TripManagerWebApp\\Views\\Home\\Contact.cshtml",
               "RelativeDocumentMoniker": "TripManagerWebApp\\Views\\Home\\Contact.cshtml",
@@ -374,12 +407,11 @@
               "RelativeToolTip": "TripManagerWebApp\\Views\\Home\\Contact.cshtml",
               "ViewState": "AgIAAAwAAAAAAAAAAAAiwC4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-03-19T16:39:54.288Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-19T16:39:54.288Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 24,
               "Title": "Register.cshtml",
               "DocumentMoniker": "C:\\Users\\Florijan\\Documents\\AlgebraProjects\\ProjectTask_RWA\\TripManager\\TripManagerWebApp\\Views\\Account\\Register.cshtml",
               "RelativeDocumentMoniker": "TripManagerWebApp\\Views\\Account\\Register.cshtml",
@@ -387,12 +419,11 @@
               "RelativeToolTip": "TripManagerWebApp\\Views\\Account\\Register.cshtml",
               "ViewState": "AgIAACYAAAAAAAAAAAAiwEgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-03-19T16:39:37.21Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-19T16:39:37.21Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 26,
               "Title": "Logout.cshtml",
               "DocumentMoniker": "C:\\Users\\Florijan\\Documents\\AlgebraProjects\\ProjectTask_RWA\\TripManager\\TripManagerWebApp\\Views\\Account\\Logout.cshtml",
               "RelativeDocumentMoniker": "TripManagerWebApp\\Views\\Account\\Logout.cshtml",
@@ -400,12 +431,11 @@
               "RelativeToolTip": "TripManagerWebApp\\Views\\Account\\Logout.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-03-19T16:39:35.815Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-19T16:39:35.815Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 25,
               "Title": "Profile.cshtml",
               "DocumentMoniker": "C:\\Users\\Florijan\\Documents\\AlgebraProjects\\ProjectTask_RWA\\TripManager\\TripManagerWebApp\\Views\\Account\\Profile.cshtml",
               "RelativeDocumentMoniker": "TripManagerWebApp\\Views\\Account\\Profile.cshtml",
@@ -413,12 +443,11 @@
               "RelativeToolTip": "TripManagerWebApp\\Views\\Account\\Profile.cshtml",
               "ViewState": "AgIAAEAAAAAAAAAAAAAiwGIAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-03-19T16:39:32.561Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-19T16:39:32.561Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 27,
               "Title": "Login.cshtml",
               "DocumentMoniker": "C:\\Users\\Florijan\\Documents\\AlgebraProjects\\ProjectTask_RWA\\TripManager\\TripManagerWebApp\\Views\\Account\\Login.cshtml",
               "RelativeDocumentMoniker": "TripManagerWebApp\\Views\\Account\\Login.cshtml",
@@ -426,38 +455,35 @@
               "RelativeToolTip": "TripManagerWebApp\\Views\\Account\\Login.cshtml",
               "ViewState": "AgIAABcAAAAAAAAAAAAiwDkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-03-19T16:39:19.305Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-19T16:39:19.305Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 13,
               "Title": "detailsTrip.css",
               "DocumentMoniker": "C:\\Users\\Florijan\\Documents\\AlgebraProjects\\ProjectTask_RWA\\TripManager\\TripManagerWebApp\\wwwroot\\css\\detailsTrip.css",
               "RelativeDocumentMoniker": "TripManagerWebApp\\wwwroot\\css\\detailsTrip.css",
               "ToolTip": "C:\\Users\\Florijan\\Documents\\AlgebraProjects\\ProjectTask_RWA\\TripManager\\TripManagerWebApp\\wwwroot\\css\\detailsTrip.css",
               "RelativeToolTip": "TripManagerWebApp\\wwwroot\\css\\detailsTrip.css",
-              "ViewState": "AgIAANoBAAAAAAAAAAAowPIBAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2026-03-19T16:34:27.508Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-19T16:34:27.508Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 14,
               "Title": "deleteTrip.css",
               "DocumentMoniker": "C:\\Users\\Florijan\\Documents\\AlgebraProjects\\ProjectTask_RWA\\TripManager\\TripManagerWebApp\\wwwroot\\css\\deleteTrip.css",
               "RelativeDocumentMoniker": "TripManagerWebApp\\wwwroot\\css\\deleteTrip.css",
               "ToolTip": "C:\\Users\\Florijan\\Documents\\AlgebraProjects\\ProjectTask_RWA\\TripManager\\TripManagerWebApp\\wwwroot\\css\\deleteTrip.css",
               "RelativeToolTip": "TripManagerWebApp\\wwwroot\\css\\deleteTrip.css",
-              "ViewState": "AgIAALMBAAAAAAAAAAAwwNgBAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2026-03-19T16:34:18.758Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-19T16:34:18.758Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 32,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "C:\\Users\\Florijan\\Documents\\AlgebraProjects\\ProjectTask_RWA\\TripManager\\TripManagerWebApp\\Views\\Trip\\Delete.cshtml",
               "RelativeDocumentMoniker": "TripManagerWebApp\\Views\\Trip\\Delete.cshtml",
@@ -465,12 +491,11 @@
               "RelativeToolTip": "TripManagerWebApp\\Views\\Trip\\Delete.cshtml",
               "ViewState": "AgIAABsAAAAAAAAAAAAQwD4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-03-19T16:34:06.503Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-19T16:34:06.503Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 31,
               "Title": "Details.cshtml",
               "DocumentMoniker": "C:\\Users\\Florijan\\Documents\\AlgebraProjects\\ProjectTask_RWA\\TripManager\\TripManagerWebApp\\Views\\Trip\\Details.cshtml",
               "RelativeDocumentMoniker": "TripManagerWebApp\\Views\\Trip\\Details.cshtml",
@@ -478,12 +503,11 @@
               "RelativeToolTip": "TripManagerWebApp\\Views\\Trip\\Details.cshtml",
               "ViewState": "AgIAAEUAAAAAAAAAAAAQwFMAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-03-19T16:34:05.641Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-19T16:34:05.641Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 33,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "C:\\Users\\Florijan\\Documents\\AlgebraProjects\\ProjectTask_RWA\\TripManager\\TripManagerWebApp\\Views\\Trip\\Edit.cshtml",
               "RelativeDocumentMoniker": "TripManagerWebApp\\Views\\Trip\\Edit.cshtml",
@@ -491,38 +515,35 @@
               "RelativeToolTip": "TripManagerWebApp\\Views\\Trip\\Edit.cshtml",
               "ViewState": "AgIAACIAAAAAAAAAAAAQwEUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-03-19T16:33:56.723Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-19T16:33:56.723Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 12,
               "Title": "editTrip.css",
               "DocumentMoniker": "C:\\Users\\Florijan\\Documents\\AlgebraProjects\\ProjectTask_RWA\\TripManager\\TripManagerWebApp\\wwwroot\\css\\editTrip.css",
               "RelativeDocumentMoniker": "TripManagerWebApp\\wwwroot\\css\\editTrip.css",
               "ToolTip": "C:\\Users\\Florijan\\Documents\\AlgebraProjects\\ProjectTask_RWA\\TripManager\\TripManagerWebApp\\wwwroot\\css\\editTrip.css",
               "RelativeToolTip": "TripManagerWebApp\\wwwroot\\css\\editTrip.css",
-              "ViewState": "AgIAAKwBAAAAAAAAAAAwwNEBAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2026-03-19T16:33:49.904Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-19T16:33:49.904Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 15,
               "Title": "createTrip.css",
               "DocumentMoniker": "C:\\Users\\Florijan\\Documents\\AlgebraProjects\\ProjectTask_RWA\\TripManager\\TripManagerWebApp\\wwwroot\\css\\createTrip.css",
               "RelativeDocumentMoniker": "TripManagerWebApp\\wwwroot\\css\\createTrip.css",
               "ToolTip": "C:\\Users\\Florijan\\Documents\\AlgebraProjects\\ProjectTask_RWA\\TripManager\\TripManagerWebApp\\wwwroot\\css\\createTrip.css",
               "RelativeToolTip": "TripManagerWebApp\\wwwroot\\css\\createTrip.css",
-              "ViewState": "AgIAALQBAAAAAAAAAAAwwNkBAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2026-03-19T16:33:38.147Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-19T16:33:38.147Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 34,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\Florijan\\Documents\\AlgebraProjects\\ProjectTask_RWA\\TripManager\\TripManagerWebApp\\Views\\Trip\\Create.cshtml",
               "RelativeDocumentMoniker": "TripManagerWebApp\\Views\\Trip\\Create.cshtml",
@@ -530,25 +551,23 @@
               "RelativeToolTip": "TripManagerWebApp\\Views\\Trip\\Create.cshtml",
               "ViewState": "AgIAADIAAAAAAAAAAAAuwFcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-03-19T16:33:16.389Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-19T16:33:16.389Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 4,
               "Title": "tripsForReservation.css",
               "DocumentMoniker": "C:\\Users\\Florijan\\Documents\\AlgebraProjects\\ProjectTask_RWA\\TripManager\\TripManagerWebApp\\wwwroot\\css\\tripsForReservation.css",
               "RelativeDocumentMoniker": "TripManagerWebApp\\wwwroot\\css\\tripsForReservation.css",
               "ToolTip": "C:\\Users\\Florijan\\Documents\\AlgebraProjects\\ProjectTask_RWA\\TripManager\\TripManagerWebApp\\wwwroot\\css\\tripsForReservation.css",
               "RelativeToolTip": "TripManagerWebApp\\wwwroot\\css\\tripsForReservation.css",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAMIAAAAAAAAAAAAAANYAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2026-03-19T16:33:03.93Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-19T16:33:03.93Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 35,
               "Title": "SearchTrips.cshtml",
               "DocumentMoniker": "C:\\Users\\Florijan\\Documents\\AlgebraProjects\\ProjectTask_RWA\\TripManager\\TripManagerWebApp\\Views\\Trip\\SearchTrips.cshtml",
               "RelativeDocumentMoniker": "TripManagerWebApp\\Views\\Trip\\SearchTrips.cshtml",
@@ -556,38 +575,35 @@
               "RelativeToolTip": "TripManagerWebApp\\Views\\Trip\\SearchTrips.cshtml",
               "ViewState": "AgIAAHQAAAAAAAAAAAAuwJkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-03-19T16:30:36.622Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-19T16:30:36.622Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 6,
               "Title": "search.css",
               "DocumentMoniker": "C:\\Users\\Florijan\\Documents\\AlgebraProjects\\ProjectTask_RWA\\TripManager\\TripManagerWebApp\\wwwroot\\css\\search.css",
               "RelativeDocumentMoniker": "TripManagerWebApp\\wwwroot\\css\\search.css",
               "ToolTip": "C:\\Users\\Florijan\\Documents\\AlgebraProjects\\ProjectTask_RWA\\TripManager\\TripManagerWebApp\\wwwroot\\css\\search.css",
               "RelativeToolTip": "TripManagerWebApp\\wwwroot\\css\\search.css",
-              "ViewState": "AgIAABIBAAAAAAAAAAAAwCIBAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2026-03-19T16:30:09.493Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-19T16:30:09.493Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 5,
               "Title": "tripList.css",
               "DocumentMoniker": "C:\\Users\\Florijan\\Documents\\AlgebraProjects\\ProjectTask_RWA\\TripManager\\TripManagerWebApp\\wwwroot\\css\\tripList.css",
               "RelativeDocumentMoniker": "TripManagerWebApp\\wwwroot\\css\\tripList.css",
               "ToolTip": "C:\\Users\\Florijan\\Documents\\AlgebraProjects\\ProjectTask_RWA\\TripManager\\TripManagerWebApp\\wwwroot\\css\\tripList.css",
               "RelativeToolTip": "TripManagerWebApp\\wwwroot\\css\\tripList.css",
-              "ViewState": "AgIAAMsCAAAAAAAAAAAAwOUCAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2026-03-19T16:26:32.198Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-19T16:26:32.198Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 36,
               "Title": "AllTrips.cshtml",
               "DocumentMoniker": "C:\\Users\\Florijan\\Documents\\AlgebraProjects\\ProjectTask_RWA\\TripManager\\TripManagerWebApp\\Views\\Trip\\AllTrips.cshtml",
               "RelativeDocumentMoniker": "TripManagerWebApp\\Views\\Trip\\AllTrips.cshtml",
@@ -595,8 +611,7 @@
               "RelativeToolTip": "TripManagerWebApp\\Views\\Trip\\AllTrips.cshtml",
               "ViewState": "AgIAACIAAAAAAAAAAAAuwC8AAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-03-19T16:26:12.872Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-19T16:26:12.872Z"
             }
           ]
         }
