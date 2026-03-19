@@ -4,13 +4,13 @@
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\bookingDetails.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-YEYyPyNbnpUXkIjjTwe7klJfld\u002BHREp1oj\u002BMFAlddno="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"8663"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022YEYyPyNbnpUXkIjjTwe7klJfld\u002BHREp1oj\u002BMFAlddno=\u0022"},{"Name":"Last-Modified","Value":"Thu, 19 Mar 2026 16:51:32 GMT"}]]]></ResponseHeaders>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"8663"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022YEYyPyNbnpUXkIjjTwe7klJfld\u002BHREp1oj\u002BMFAlddno=\u0022"},{"Name":"Last-Modified","Value":"Thu, 19 Mar 2026 17:04:22 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/TripManagerWebApp/css/bookingDetails.oe5s8ty28q.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\bookingDetails.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"oe5s8ty28q"},{"Name":"integrity","Value":"sha256-YEYyPyNbnpUXkIjjTwe7klJfld\u002BHREp1oj\u002BMFAlddno="},{"Name":"label","Value":"_content/TripManagerWebApp/css/bookingDetails.css"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"8663"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022YEYyPyNbnpUXkIjjTwe7klJfld\u002BHREp1oj\u002BMFAlddno=\u0022"},{"Name":"Last-Modified","Value":"Thu, 19 Mar 2026 16:51:32 GMT"}]]]></ResponseHeaders>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"8663"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022YEYyPyNbnpUXkIjjTwe7klJfld\u002BHREp1oj\u002BMFAlddno=\u0022"},{"Name":"Last-Modified","Value":"Thu, 19 Mar 2026 17:04:22 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/TripManagerWebApp/css/bookTrip.3na00fyv34.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\bookTrip.css'))</AssetFile>

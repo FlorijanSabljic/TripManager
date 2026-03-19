@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "DyFzIg9wEMJesIPEsYpA2mUDbG8/G/XCKGl9x0tUfx4=",
+  "Hash": "1yYfAnJJLuepkSYmUOyLJSO4m5bkJRRx5YxW/9AkntE=",
   "Source": "TripManagerWebApp",
   "BasePath": "_content/TripManagerWebApp",
   "Mode": "Default",
@@ -1658,7 +1658,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 19 Mar 2026 16:51:32 GMT"
+          "Value": "Thu, 19 Mar 2026 17:04:22 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1695,7 +1695,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 19 Mar 2026 16:51:32 GMT"
+          "Value": "Thu, 19 Mar 2026 17:04:22 GMT"
         },
         {
           "Name": "Cache-Control",
