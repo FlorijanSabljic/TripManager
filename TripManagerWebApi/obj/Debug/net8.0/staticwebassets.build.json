@@ -1,0 +1,640 @@
+{
+  "Version": 1,
+  "Hash": "vBOF6lqsN29QNTnjyPZ4kzfimxJGS05n9Pr/Z6VKT58=",
+  "Source": "TripManagerWebApi",
+  "BasePath": "_content/TripManagerWebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "TripManagerWebApi\\wwwroot",
+      "Source": "TripManagerWebApi",
+      "ContentRoot": "C:\\Users\\Florijan\\Documents\\AlgebraProjects\\ProjectTask_RWA\\TripManager\\TripManagerWebApi\\wwwroot\\",
+      "BasePath": "_content/TripManagerWebApi",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Florijan\\Documents\\AlgebraProjects\\ProjectTask_RWA\\TripManager\\TripManagerWebApi\\wwwroot\\css\\loginStyle.css",
+      "SourceId": "TripManagerWebApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Florijan\\Documents\\AlgebraProjects\\ProjectTask_RWA\\TripManager\\TripManagerWebApi\\wwwroot\\",
+      "BasePath": "_content/TripManagerWebApi",
+      "RelativePath": "css/loginStyle#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "eac14uj5n7",
+      "Integrity": "it+QI5htYS6WZ0Dtcq1cWOk7fE0IyHRz6hTm5GDl8Fs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\loginStyle.css"
+    },
+    {
+      "Identity": "C:\\Users\\Florijan\\Documents\\AlgebraProjects\\ProjectTask_RWA\\TripManager\\TripManagerWebApi\\wwwroot\\css\\logsStyle.css",
+      "SourceId": "TripManagerWebApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Florijan\\Documents\\AlgebraProjects\\ProjectTask_RWA\\TripManager\\TripManagerWebApi\\wwwroot\\",
+      "BasePath": "_content/TripManagerWebApi",
+      "RelativePath": "css/logsStyle#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "zsqjf3rycw",
+      "Integrity": "c5m14DN6Be0/2Vehj5SHF9Squ5I8m9rS3k82QUCHHVc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\logsStyle.css"
+    },
+    {
+      "Identity": "C:\\Users\\Florijan\\Documents\\AlgebraProjects\\ProjectTask_RWA\\TripManager\\TripManagerWebApi\\wwwroot\\html\\login.html",
+      "SourceId": "TripManagerWebApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Florijan\\Documents\\AlgebraProjects\\ProjectTask_RWA\\TripManager\\TripManagerWebApi\\wwwroot\\",
+      "BasePath": "_content/TripManagerWebApi",
+      "RelativePath": "html/login#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "dv82ydl9dg",
+      "Integrity": "ad8sznuvXkwvDbE/y61fwnYlkI7ps6fk1ODNnS0lF0c=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\html\\login.html"
+    },
+    {
+      "Identity": "C:\\Users\\Florijan\\Documents\\AlgebraProjects\\ProjectTask_RWA\\TripManager\\TripManagerWebApi\\wwwroot\\html\\logs.html",
+      "SourceId": "TripManagerWebApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Florijan\\Documents\\AlgebraProjects\\ProjectTask_RWA\\TripManager\\TripManagerWebApi\\wwwroot\\",
+      "BasePath": "_content/TripManagerWebApi",
+      "RelativePath": "html/logs#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "xfflzfgyn2",
+      "Integrity": "bWBkBmmPL6x6UXfzbm/6H4opqHRsscqodTqDMQdHmg0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\html\\logs.html"
+    },
+    {
+      "Identity": "C:\\Users\\Florijan\\Documents\\AlgebraProjects\\ProjectTask_RWA\\TripManager\\TripManagerWebApi\\wwwroot\\js\\login.js",
+      "SourceId": "TripManagerWebApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Florijan\\Documents\\AlgebraProjects\\ProjectTask_RWA\\TripManager\\TripManagerWebApi\\wwwroot\\",
+      "BasePath": "_content/TripManagerWebApi",
+      "RelativePath": "js/login#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "wqaz8dhxx7",
+      "Integrity": "2DL8bBUGkh6+YI40PAdRDQX3hwxHPcng3Psai9vEjEU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\login.js"
+    },
+    {
+      "Identity": "C:\\Users\\Florijan\\Documents\\AlgebraProjects\\ProjectTask_RWA\\TripManager\\TripManagerWebApi\\wwwroot\\js\\logs.js",
+      "SourceId": "TripManagerWebApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Florijan\\Documents\\AlgebraProjects\\ProjectTask_RWA\\TripManager\\TripManagerWebApi\\wwwroot\\",
+      "BasePath": "_content/TripManagerWebApi",
+      "RelativePath": "js/logs#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "riufmzawn4",
+      "Integrity": "Qyq5jBRW3HF+er5QobfNyHrm1RARjOrnrGfPTNbUeEU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\logs.js"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "css/loginStyle.css",
+      "AssetFile": "C:\\Users\\Florijan\\Documents\\AlgebraProjects\\ProjectTask_RWA\\TripManager\\TripManagerWebApi\\wwwroot\\css\\loginStyle.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "934"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"it+QI5htYS6WZ0Dtcq1cWOk7fE0IyHRz6hTm5GDl8Fs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 21 Nov 2025 04:26:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-it+QI5htYS6WZ0Dtcq1cWOk7fE0IyHRz6hTm5GDl8Fs="
+        }
+      ]
+    },
+    {
+      "Route": "css/loginStyle.eac14uj5n7.css",
+      "AssetFile": "C:\\Users\\Florijan\\Documents\\AlgebraProjects\\ProjectTask_RWA\\TripManager\\TripManagerWebApi\\wwwroot\\css\\loginStyle.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "934"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"it+QI5htYS6WZ0Dtcq1cWOk7fE0IyHRz6hTm5GDl8Fs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 21 Nov 2025 04:26:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "eac14uj5n7"
+        },
+        {
+          "Name": "label",
+          "Value": "css/loginStyle.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-it+QI5htYS6WZ0Dtcq1cWOk7fE0IyHRz6hTm5GDl8Fs="
+        }
+      ]
+    },
+    {
+      "Route": "css/logsStyle.css",
+      "AssetFile": "C:\\Users\\Florijan\\Documents\\AlgebraProjects\\ProjectTask_RWA\\TripManager\\TripManagerWebApi\\wwwroot\\css\\logsStyle.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1046"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"c5m14DN6Be0/2Vehj5SHF9Squ5I8m9rS3k82QUCHHVc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 21 Nov 2025 04:32:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-c5m14DN6Be0/2Vehj5SHF9Squ5I8m9rS3k82QUCHHVc="
+        }
+      ]
+    },
+    {
+      "Route": "css/logsStyle.zsqjf3rycw.css",
+      "AssetFile": "C:\\Users\\Florijan\\Documents\\AlgebraProjects\\ProjectTask_RWA\\TripManager\\TripManagerWebApi\\wwwroot\\css\\logsStyle.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1046"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"c5m14DN6Be0/2Vehj5SHF9Squ5I8m9rS3k82QUCHHVc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 21 Nov 2025 04:32:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "zsqjf3rycw"
+        },
+        {
+          "Name": "label",
+          "Value": "css/logsStyle.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-c5m14DN6Be0/2Vehj5SHF9Squ5I8m9rS3k82QUCHHVc="
+        }
+      ]
+    },
+    {
+      "Route": "html/login.dv82ydl9dg.html",
+      "AssetFile": "C:\\Users\\Florijan\\Documents\\AlgebraProjects\\ProjectTask_RWA\\TripManager\\TripManagerWebApi\\wwwroot\\html\\login.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "672"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ad8sznuvXkwvDbE/y61fwnYlkI7ps6fk1ODNnS0lF0c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 21 Nov 2025 04:29:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "dv82ydl9dg"
+        },
+        {
+          "Name": "label",
+          "Value": "html/login.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ad8sznuvXkwvDbE/y61fwnYlkI7ps6fk1ODNnS0lF0c="
+        }
+      ]
+    },
+    {
+      "Route": "html/login.html",
+      "AssetFile": "C:\\Users\\Florijan\\Documents\\AlgebraProjects\\ProjectTask_RWA\\TripManager\\TripManagerWebApi\\wwwroot\\html\\login.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "672"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ad8sznuvXkwvDbE/y61fwnYlkI7ps6fk1ODNnS0lF0c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 21 Nov 2025 04:29:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ad8sznuvXkwvDbE/y61fwnYlkI7ps6fk1ODNnS0lF0c="
+        }
+      ]
+    },
+    {
+      "Route": "html/logs.html",
+      "AssetFile": "C:\\Users\\Florijan\\Documents\\AlgebraProjects\\ProjectTask_RWA\\TripManager\\TripManagerWebApi\\wwwroot\\html\\logs.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1137"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"bWBkBmmPL6x6UXfzbm/6H4opqHRsscqodTqDMQdHmg0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 21 Nov 2025 04:55:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-bWBkBmmPL6x6UXfzbm/6H4opqHRsscqodTqDMQdHmg0="
+        }
+      ]
+    },
+    {
+      "Route": "html/logs.xfflzfgyn2.html",
+      "AssetFile": "C:\\Users\\Florijan\\Documents\\AlgebraProjects\\ProjectTask_RWA\\TripManager\\TripManagerWebApi\\wwwroot\\html\\logs.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1137"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"bWBkBmmPL6x6UXfzbm/6H4opqHRsscqodTqDMQdHmg0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 21 Nov 2025 04:55:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "xfflzfgyn2"
+        },
+        {
+          "Name": "label",
+          "Value": "html/logs.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-bWBkBmmPL6x6UXfzbm/6H4opqHRsscqodTqDMQdHmg0="
+        }
+      ]
+    },
+    {
+      "Route": "js/login.js",
+      "AssetFile": "C:\\Users\\Florijan\\Documents\\AlgebraProjects\\ProjectTask_RWA\\TripManager\\TripManagerWebApi\\wwwroot\\js\\login.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "662"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2DL8bBUGkh6+YI40PAdRDQX3hwxHPcng3Psai9vEjEU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 21 Nov 2025 04:26:50 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-2DL8bBUGkh6+YI40PAdRDQX3hwxHPcng3Psai9vEjEU="
+        }
+      ]
+    },
+    {
+      "Route": "js/login.wqaz8dhxx7.js",
+      "AssetFile": "C:\\Users\\Florijan\\Documents\\AlgebraProjects\\ProjectTask_RWA\\TripManager\\TripManagerWebApi\\wwwroot\\js\\login.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "662"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2DL8bBUGkh6+YI40PAdRDQX3hwxHPcng3Psai9vEjEU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 21 Nov 2025 04:26:50 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "wqaz8dhxx7"
+        },
+        {
+          "Name": "label",
+          "Value": "js/login.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-2DL8bBUGkh6+YI40PAdRDQX3hwxHPcng3Psai9vEjEU="
+        }
+      ]
+    },
+    {
+      "Route": "js/logs.js",
+      "AssetFile": "C:\\Users\\Florijan\\Documents\\AlgebraProjects\\ProjectTask_RWA\\TripManager\\TripManagerWebApi\\wwwroot\\js\\logs.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1285"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Qyq5jBRW3HF+er5QobfNyHrm1RARjOrnrGfPTNbUeEU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 21 Nov 2025 04:55:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Qyq5jBRW3HF+er5QobfNyHrm1RARjOrnrGfPTNbUeEU="
+        }
+      ]
+    },
+    {
+      "Route": "js/logs.riufmzawn4.js",
+      "AssetFile": "C:\\Users\\Florijan\\Documents\\AlgebraProjects\\ProjectTask_RWA\\TripManager\\TripManagerWebApi\\wwwroot\\js\\logs.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1285"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Qyq5jBRW3HF+er5QobfNyHrm1RARjOrnrGfPTNbUeEU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 21 Nov 2025 04:55:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "riufmzawn4"
+        },
+        {
+          "Name": "label",
+          "Value": "js/logs.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Qyq5jBRW3HF+er5QobfNyHrm1RARjOrnrGfPTNbUeEU="
+        }
+      ]
+    }
+  ]
+}

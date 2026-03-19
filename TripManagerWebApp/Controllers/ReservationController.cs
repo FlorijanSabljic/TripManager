@@ -285,6 +285,10 @@ namespace TripManagerWebApp.Controllers
                 }
                 _context.TripBookings.Remove(tripBooking);
                 _context.SaveChanges();
+                if (User.IsInRole("Admin"))
+                {
+                    return RedirectToAction("AllBookings");
+                }
                 return RedirectToAction("MyBookings");
             }
             catch (Exception)

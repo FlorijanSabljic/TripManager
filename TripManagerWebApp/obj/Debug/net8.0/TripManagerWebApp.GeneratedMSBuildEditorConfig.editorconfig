@@ -1,0 +1,121 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = TripManagerWebApp
+build_property.RootNamespace = TripManagerWebApp
+build_property.ProjectDir = C:\Users\Florijan\Documents\AlgebraProjects\ProjectTask_RWA\TripManager\TripManagerWebApp\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\Florijan\Documents\AlgebraProjects\ProjectTask_RWA\TripManager\TripManagerWebApp
+build_property._RazorSourceGeneratorDebug = 
+build_property.EffectiveAnalysisLevelStyle = 8.0
+build_property.EnableCodeStyleSeverity = 
+
+[C:/Users/Florijan/Documents/AlgebraProjects/ProjectTask_RWA/TripManager/TripManagerWebApp/Views/Account/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Florijan/Documents/AlgebraProjects/ProjectTask_RWA/TripManager/TripManagerWebApp/Views/Account/Logout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxMb2dvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Florijan/Documents/AlgebraProjects/ProjectTask_RWA/TripManager/TripManagerWebApp/Views/Account/Profile.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxQcm9maWxlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Florijan/Documents/AlgebraProjects/ProjectTask_RWA/TripManager/TripManagerWebApp/Views/Account/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxSZWdpc3Rlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Florijan/Documents/AlgebraProjects/ProjectTask_RWA/TripManager/TripManagerWebApp/Views/Home/Contact.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDb250YWN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Florijan/Documents/AlgebraProjects/ProjectTask_RWA/TripManager/TripManagerWebApp/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Florijan/Documents/AlgebraProjects/ProjectTask_RWA/TripManager/TripManagerWebApp/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Florijan/Documents/AlgebraProjects/ProjectTask_RWA/TripManager/TripManagerWebApp/Views/Reservation/AllBookings.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVzZXJ2YXRpb25cQWxsQm9va2luZ3MuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Florijan/Documents/AlgebraProjects/ProjectTask_RWA/TripManager/TripManagerWebApp/Views/Reservation/BookingDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVzZXJ2YXRpb25cQm9va2luZ0RldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Florijan/Documents/AlgebraProjects/ProjectTask_RWA/TripManager/TripManagerWebApp/Views/Reservation/BookTrip.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVzZXJ2YXRpb25cQm9va1RyaXAuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Florijan/Documents/AlgebraProjects/ProjectTask_RWA/TripManager/TripManagerWebApp/Views/Reservation/MyBookings.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVzZXJ2YXRpb25cTXlCb29raW5ncy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Florijan/Documents/AlgebraProjects/ProjectTask_RWA/TripManager/TripManagerWebApp/Views/Reservation/TripsForReservation.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVzZXJ2YXRpb25cVHJpcHNGb3JSZXNlcnZhdGlvbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Florijan/Documents/AlgebraProjects/ProjectTask_RWA/TripManager/TripManagerWebApp/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Florijan/Documents/AlgebraProjects/ProjectTask_RWA/TripManager/TripManagerWebApp/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Florijan/Documents/AlgebraProjects/ProjectTask_RWA/TripManager/TripManagerWebApp/Views/Trip/AllTrips.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHJpcFxBbGxUcmlwcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Florijan/Documents/AlgebraProjects/ProjectTask_RWA/TripManager/TripManagerWebApp/Views/Trip/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHJpcFxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Florijan/Documents/AlgebraProjects/ProjectTask_RWA/TripManager/TripManagerWebApp/Views/Trip/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHJpcFxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Florijan/Documents/AlgebraProjects/ProjectTask_RWA/TripManager/TripManagerWebApp/Views/Trip/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHJpcFxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Florijan/Documents/AlgebraProjects/ProjectTask_RWA/TripManager/TripManagerWebApp/Views/Trip/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHJpcFxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Florijan/Documents/AlgebraProjects/ProjectTask_RWA/TripManager/TripManagerWebApp/Views/Trip/SearchTrips.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHJpcFxTZWFyY2hUcmlwcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Florijan/Documents/AlgebraProjects/ProjectTask_RWA/TripManager/TripManagerWebApp/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Florijan/Documents/AlgebraProjects/ProjectTask_RWA/TripManager/TripManagerWebApp/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Florijan/Documents/AlgebraProjects/ProjectTask_RWA/TripManager/TripManagerWebApp/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-ijmb9v0g5q

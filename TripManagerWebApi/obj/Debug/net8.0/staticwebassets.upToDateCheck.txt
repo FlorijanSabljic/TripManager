@@ -1,0 +1,6 @@
+wwwroot\css\loginStyle.css
+wwwroot\css\logsStyle.css
+wwwroot\html\login.html
+wwwroot\html\logs.html
+wwwroot\js\login.js
+wwwroot\js\logs.js

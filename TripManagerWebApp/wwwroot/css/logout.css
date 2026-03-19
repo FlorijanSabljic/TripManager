@@ -1,4 +1,4 @@
-﻿body {
+﻿/*body {
     background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     background-attachment: fixed;
@@ -61,3 +61,230 @@
     background: #e2e8f0;
     color: #4a5568;
     padding: 0.75rem 2rem
+*/
+
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@600;700&family=DM+Sans:wght@300;400;500;600&display=swap');
+
+:root {
+    --sand: #f5f0e8;
+    --ink: #1a1a2e;
+    --ink-soft: #3d3d5c;
+    --ink-muted: #6b6b8a;
+    --ocean: #2563a8;
+    --ocean-light: #dbeafe;
+    --coral: #e05c3a;
+    --coral-light: #fde8e3;
+    --white: #ffffff;
+    --border: #ddd8cc;
+    --shadow-lg: 0 20px 60px rgba(26,26,46,0.20);
+    --shadow-sm: 0 2px 8px rgba(26,26,46,0.07);
+    --radius: 16px;
+    --radius-sm: 8px;
+    --transition: 0.25s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+*, *::before, *::after {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'DM Sans', sans-serif;
+    background-color: var(--sand);
+    background-image: radial-gradient(ellipse at 15% 20%, rgba(37,99,168,0.08) 0%, transparent 50%), radial-gradient(ellipse at 85% 75%, rgba(224,92,58,0.07) 0%, transparent 50%), url("data:image/svg+xml,%3Csvg width='60' height='60' viewBox='0 0 60 60' xmlns='http://www.w3.org/2000/svg'%3E%3Cg fill='none' fill-rule='evenodd'%3E%3Cg fill='%231a1a2e' fill-opacity='0.025'%3E%3Cpath d='M36 34v-4h-2v4h-4v2h4v4h2v-4h4v-2h-4zm0-30V0h-2v4h-4v2h4v4h2V6h4V4h-4zM6 34v-4H4v4H0v2h4v4h2v-4h4v-2H6zM6 4V0H4v4H0v2h4v4h2V6h4V4H6z'/%3E%3C/g%3E%3C/g%3E%3C/svg%3E");
+    background-attachment: fixed;
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 2.5rem 1.5rem;
+}
+
+/* bootstrap .container override */
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 1rem;
+}
+
+.logout-container {
+    width: 100%;
+    max-width: 420px !important;
+    margin: 0 auto !important;
+    padding: 0 !important;
+    animation: slideUp 0.45s cubic-bezier(0.4, 0, 0.2, 1) both;
+}
+
+@keyframes slideUp {
+    from {
+        opacity: 0;
+        transform: translateY(20px);
+    }
+
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+.logout-card {
+    background: var(--white);
+    border-radius: var(--radius);
+    box-shadow: var(--shadow-lg);
+    overflow: hidden;
+    text-align: center;
+}
+
+    /* coloured top stripe */
+    .logout-card::before {
+        content: '';
+        display: block;
+        height: 4px;
+        background: linear-gradient(90deg, var(--ocean), var(--coral));
+        border-radius: var(--radius) var(--radius) 0 0;
+    }
+
+    /* inner padding */
+    .logout-card > * {
+        padding-left: 2.5rem;
+        padding-right: 2.5rem;
+    }
+
+.header {
+    padding-top: 2.5rem;
+    padding-bottom: 0;
+}
+
+    /* big wave emoji */
+    .header::before {
+        content: '👋';
+        display: block;
+        font-size: 3rem;
+        margin-bottom: 1rem;
+        animation: wave 1.2s ease-in-out 0.4s both;
+    }
+
+@keyframes wave {
+    0% {
+        transform: rotate(0deg);
+    }
+
+    20% {
+        transform: rotate(-15deg);
+    }
+
+    40% {
+        transform: rotate(15deg);
+    }
+
+    60% {
+        transform: rotate(-10deg);
+    }
+
+    80% {
+        transform: rotate(8deg);
+    }
+
+    100% {
+        transform: rotate(0deg);
+    }
+}
+
+.header h1 {
+    font-family: 'Playfair Display', Georgia, serif;
+    font-size: 1.9rem;
+    font-weight: 700;
+    color: var(--ink);
+    margin-bottom: 0.5rem;
+    /* kill bootstrap gradient */
+    -webkit-text-fill-color: var(--ink);
+    background: none;
+    -webkit-background-clip: unset;
+    background-clip: unset;
+}
+
+.header p {
+    color: var(--ink-muted);
+    font-size: 0.95rem;
+    font-weight: 300;
+    line-height: 1.6;
+    margin-bottom: 0;
+    padding-bottom: 0;
+}
+
+.actions {
+    display: flex;
+    flex-direction: column;
+    gap: 0.75rem;
+    padding-top: 2rem;
+    padding-bottom: 2.5rem;
+    justify-content: center;
+}
+
+/* Login again — primary */
+.btn-primary {
+    background: var(--ink) !important;
+    color: var(--white) !important;
+    padding: 0.85rem 2rem;
+    border: 1.5px solid var(--ink) !important;
+    border-radius: var(--radius-sm) !important;
+    font-family: 'DM Sans', sans-serif;
+    font-size: 0.9rem;
+    font-weight: 600;
+    letter-spacing: 0.3px;
+    text-decoration: none;
+    display: block;
+    transition: all var(--transition) !important;
+    box-shadow: 0 3px 10px rgba(26,26,46,0.2);
+}
+
+    .btn-primary:hover {
+        background: var(--ocean) !important;
+        border-color: var(--ocean) !important;
+        transform: translateY(-2px);
+        box-shadow: 0 6px 18px rgba(37,99,168,0.3) !important;
+        color: var(--white) !important;
+    }
+
+/* Back to home — secondary */
+.btn-secondary {
+    background: var(--white);
+    color: var(--ink-muted);
+    padding: 0.85rem 2rem;
+    border: 1.5px solid var(--border);
+    border-radius: var(--radius-sm);
+    font-family: 'DM Sans', sans-serif;
+    font-size: 0.9rem;
+    font-weight: 600;
+    text-decoration: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 5px;
+    transition: all var(--transition);
+    box-shadow: var(--shadow-sm);
+}
+
+    .btn-secondary::before {
+        content: '←';
+        font-size: 1rem;
+    }
+
+    .btn-secondary:hover {
+        background: var(--coral-light);
+        color: var(--coral);
+        border-color: rgba(224,92,58,0.3);
+        transform: translateY(-2px);
+    }
+
+@media (max-width: 480px) {
+    body {
+        padding: 1.5rem 1rem;
+    }
+
+    .logout-card > * {
+        padding-left: 1.5rem;
+        padding-right: 1.5rem;
+    }
+}

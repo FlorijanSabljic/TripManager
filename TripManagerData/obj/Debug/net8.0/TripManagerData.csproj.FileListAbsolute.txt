@@ -1,0 +1,15 @@
+C:\Users\Florijan\Documents\AlgebraProjects\ProjectTask_RWA\TripManager\TripManagerData\bin\Debug\net8.0\TripManagerData.deps.json
+C:\Users\Florijan\Documents\AlgebraProjects\ProjectTask_RWA\TripManager\TripManagerData\bin\Debug\net8.0\TripManagerData.runtimeconfig.json
+C:\Users\Florijan\Documents\AlgebraProjects\ProjectTask_RWA\TripManager\TripManagerData\bin\Debug\net8.0\TripManagerData.dll
+C:\Users\Florijan\Documents\AlgebraProjects\ProjectTask_RWA\TripManager\TripManagerData\bin\Debug\net8.0\TripManagerData.pdb
+C:\Users\Florijan\Documents\AlgebraProjects\ProjectTask_RWA\TripManager\TripManagerData\obj\Debug\net8.0\TripManagerData.csproj.AssemblyReference.cache
+C:\Users\Florijan\Documents\AlgebraProjects\ProjectTask_RWA\TripManager\TripManagerData\obj\Debug\net8.0\TripManagerData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Florijan\Documents\AlgebraProjects\ProjectTask_RWA\TripManager\TripManagerData\obj\Debug\net8.0\TripManagerData.AssemblyInfoInputs.cache
+C:\Users\Florijan\Documents\AlgebraProjects\ProjectTask_RWA\TripManager\TripManagerData\obj\Debug\net8.0\TripManagerData.AssemblyInfo.cs
+C:\Users\Florijan\Documents\AlgebraProjects\ProjectTask_RWA\TripManager\TripManagerData\obj\Debug\net8.0\TripManagerData.csproj.CoreCompileInputs.cache
+C:\Users\Florijan\Documents\AlgebraProjects\ProjectTask_RWA\TripManager\TripManagerData\obj\Debug\net8.0\TripManagerData.sourcelink.json
+C:\Users\Florijan\Documents\AlgebraProjects\ProjectTask_RWA\TripManager\TripManagerData\obj\Debug\net8.0\TripManagerData.dll
+C:\Users\Florijan\Documents\AlgebraProjects\ProjectTask_RWA\TripManager\TripManagerData\obj\Debug\net8.0\refint\TripManagerData.dll
+C:\Users\Florijan\Documents\AlgebraProjects\ProjectTask_RWA\TripManager\TripManagerData\obj\Debug\net8.0\TripManagerData.pdb
+C:\Users\Florijan\Documents\AlgebraProjects\ProjectTask_RWA\TripManager\TripManagerData\obj\Debug\net8.0\TripManagerData.genruntimeconfig.cache
+C:\Users\Florijan\Documents\AlgebraProjects\ProjectTask_RWA\TripManager\TripManagerData\obj\Debug\net8.0\ref\TripManagerData.dll
